@@ -14,9 +14,13 @@ All textures, including UI elements, blocks, and items, will be completely redra
 ## Here are some of the modules that have already been redesigned:
 
 [Minecraft](https://minecraft.net)
+
 [SGCraft-1.4.4-GTNH](https://github.com/GTNewHorizons/SGCraft)
+
 [EnderIO-2.7.4](https://github.com/GTNewHorizons/EnderIO)
-[-2.5.27-GTNH](https://github.com/GTNewHorizons/NotEnoughItems)
+
+[NotEnoughItems-2.5.27-GTNH](https://github.com/GTNewHorizons/NotEnoughItems)
+
 
 
 
