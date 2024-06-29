@@ -1,0 +1,76 @@
+item.cookingforblockheads:recipebook_tier0.name=Cooking for Blockheads
+item.cookingforblockheads:recipebook_tier1.name=Cooking for Blockheads I
+item.cookingforblockheads:recipebook_tier2.name=Cooking for Blockheads II
+item.cookingforblockheads:toast.name=Toast
+
+tile.cookingforblockheads:cookingtable.name=Cooking Table
+tile.cookingforblockheads:cookingoven.name=Cooking Oven
+tile.cookingforblockheads:fridge.name=Fridge
+tile.cookingforblockheads:counter.name=Counter
+tile.cookingforblockheads:counter_corner.name=Counter Corner
+tile.cookingforblockheads:cabinet.name=Cabinet
+tile.cookingforblockheads:cabinet_corner.name=Cabinet Corner
+tile.cookingforblockheads:white_kitchen_floor.name=Kitchen Floor
+tile.cookingforblockheads:orange_kitchen_floor.name=Orange Kitchen Floor
+tile.cookingforblockheads:magenta_kitchen_floor.name=Magenta Kitchen Floor
+tile.cookingforblockheads:light_blue_kitchen_floor.name=Light Blue Kitchen Floor
+tile.cookingforblockheads:yellow_kitchen_floor.name=Yellow Kitchen Floor
+tile.cookingforblockheads:lime_kitchen_floor.name=Lime Kitchen Floor
+tile.cookingforblockheads:pink_kitchen_floor.name=Pink Kitchen Floor
+tile.cookingforblockheads:gray_kitchen_floor.name=Gray Kitchen Floor
+tile.cookingforblockheads:light_gray_kitchen_floor.name=Light Gray Kitchen Floor
+tile.cookingforblockheads:cyan_kitchen_floor.name=Cyan Kitchen Floor
+tile.cookingforblockheads:purple_kitchen_floor.name=Purple Kitchen Floor
+tile.cookingforblockheads:blue_kitchen_floor.name=Blue Kitchen Floor
+tile.cookingforblockheads:brown_kitchen_floor.name=Brown Kitchen Floor
+tile.cookingforblockheads:green_kitchen_floor.name=Green Kitchen Floor
+tile.cookingforblockheads:red_kitchen_floor.name=Red Kitchen Floor
+tile.cookingforblockheads:black_kitchen_floor.name=Black Kitchen Floor
+tile.cookingforblockheads:sink.name=Sink
+tile.cookingforblockheads:toolrack.name=Tool Rack
+tile.cookingforblockheads:toaster.name=Toaster
+
+container.cookingforblockheads:cookingoven=Cooking Oven
+container.cookingforblockheads:fridge=Fridge
+container.cookingforblockheads:counter=Counter
+container.cookingforblockheads:cabinet=Cabinet
+
+itemGroup.cookingforblockheads=Cooking for Blockheads
+
+cookingforblockheads:recipebook_tier0.tooltip=#NoFilter Edition
+cookingforblockheads:recipebook_tier0.tooltipDesc=Shows all food recipes.
+
+cookingforblockheads:recipebook_tier1.tooltip=Recipe Book
+cookingforblockheads:recipebook_tier1.tooltipDesc=Shows food you can make with the\nthings you have in your inventory.
+
+cookingforblockheads:recipebook_tier2.tooltip=Crafting Book
+cookingforblockheads:recipebook_tier2.tooltipDesc=Can craft food using the things\nyou have in your inventory.
+
+cookingforblockheads:multiblockKitchen=Multiblock Kitchen
+cookingforblockheads:dyeable=Dyeable
+cookingforblockheads:cookingtable.tooltipDesc=Enables crafting abilities.
+cookingforblockheads:cookingoven.tooltipDesc=Enables smelting abilities.
+cookingforblockheads:sink.tooltipDesc=Provides water to recipes.
+cookingforblockheads:fridge.tooltipDesc=Provides contained ingredients to recipes.
+cookingforblockheads:counter.tooltipDesc=Stores ingredients for recipes.
+cookingforblockheads:countercorner.tooltipDesc=Keeping up appearances.
+cookingforblockheads:cabinet.tooltipDesc=Stores ingredients for recipes.
+cookingforblockheads:cabinetcorner.tooltipDesc=Keeping up appearances.
+cookingforblockheads:kitchen_floor.tooltipDesc=Connect kitchen blocks over distances.
+cookingforblockheads:toolrack.tooltipDesc=Provides contained tools to recipes.
+cookingforblockheads:toaster.tooltipDesc=Toasts Bread.
+
+cookingforblockheads:sort_by_name.tooltip=Sort by Name
+cookingforblockheads:sort_by_hunger.tooltip=Sort by Hunger Restored
+cookingforblockheads:sort_by_saturation.tooltip=Sort by Saturation
+cookingforblockheads:sort_by_sol.tooltip=Sort by Number of times eaten
+
+cookingforblockheads:no_ingredients=Not\nenough\ningredients
+cookingforblockheads:no_selection=Select an item\non the right to\nsee its recipe.
+cookingforblockheads:click_to_see_recipe=Click to see recipe
+cookingforblockheads:click_to_craft_one=Click again to craft
+cookingforblockheads:click_to_smelt_one=Click again to cook
+cookingforblockheads:click_to_craft_all=Shift-Click to craft a stack
+cookingforblockheads:click_to_smelt_all=Shift-Click to cook a stack
+cookingforblockheads:missing_tools=Missing tools to craft
+cookingforblockheads:missing_oven=Missing oven to cook

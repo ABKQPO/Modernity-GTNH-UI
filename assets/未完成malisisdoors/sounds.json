@@ -1,0 +1,13 @@
+{
+	"slidingdooro": {"category": "master","sounds": [{"name": "slidingdooro","stream": false}]},
+	"portal": {"category": "master","sounds": [{"name": "portal","stream": false}]},
+	"jaildoor": {"category": "master","sounds": [{"name": "jaildoor","stream": false}]},
+	"space_door_open": {"category": "master","sounds": [{"name": "space_door_open","stream": false}]},	
+	"space_door_close": {"category": "master","sounds": [{"name": "space_door_close","stream": false}]},	
+	"shoji_door": {"category": "master","sounds": [{"name": "shoji","stream": false}]},
+	"rustyhatch_open": {"category": "master","sounds": [{"name": "rustyhatch_open","stream": false}]},
+	"rustyhatch_close": {"category": "master","sounds": [{"name": "rustyhatch_close","stream": false}]},
+	"carriage_opening": {"category": "master","sounds": [{"name": "carriage_opening","stream": false}]},
+	"carriage_closing": {"category": "master","sounds": [{"name": "carriage_closing","stream": false}]},
+	"carriage_closed": {"category": "master","sounds": [{"name": "carriage_closed","stream": false}]}
+}

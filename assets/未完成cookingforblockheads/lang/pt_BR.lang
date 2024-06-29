@@ -1,0 +1,45 @@
+item.cookingforblockheads:recipebook_tier0.name=Culinária para Quadradões
+item.cookingforblockheads:recipebook_tier1.name=Culinária para Quadradões I
+item.cookingforblockheads:recipebook_tier2.name=Culinária para Quadradões II
+
+tile.cookingforblockheads:cookingtable.name=Mesa de Cozinha
+tile.cookingforblockheads:cookingoven.name=Forno de Cozinha
+tile.cookingforblockheads:fridge.name=Geladeira
+tile.cookingforblockheads:sink.name=Pia
+tile.cookingforblockheads:toolrack.name=Raque de Utensílios
+
+container.cookingforblockheads:cookingoven=Forno de Cozinha
+container.cookingforblockheads:fridge=Geladeira
+
+itemGroup.cookingforblockheads=Cooking for Blockheads
+
+cookingforblockheads:recipebook_tier0.tooltip=Edição #NoFilter
+cookingforblockheads:recipebook_tier0.tooltipDesc=Mostra todas as receitas de comida.
+
+cookingforblockheads:recipebook_tier1.tooltip=Livro de Receitas
+cookingforblockheads:recipebook_tier1.tooltipDesc=Mostra as comidas que você pode fazer com\n o que você tem no inventário.
+
+cookingforblockheads:recipebook_tier2.tooltip=Livro de Crafting
+cookingforblockheads:recipebook_tier2.tooltipDesc=Pode fazer comida com as coisas\n com o que você tem no inventário.
+
+cookingforblockheads:multiblockKitchen=Cozinha Multibloco
+cookingforblockheads:dyeable=Colorível
+cookingforblockheads:cookingtable.tooltipDesc=Ativa habilidades de crafring.
+cookingforblockheads:cookingoven.tooltipDesc=Ativa habilidades de cozimento.
+cookingforblockheads:sink.tooltipDesc=Provém água para receitas.
+cookingforblockheads:fridge.tooltipDesc=Provém ingredientes dentro dela para receitas.
+cookingforblockheads:toolrack.tooltipDesc=Provém utensílios dentro dele para receitas.
+
+cookingforblockheads:sort_by_name.tooltip=Organizar por Nome
+cookingforblockheads:sort_by_hunger.tooltip=Organizar por Fome Recuperada
+cookingforblockheads:sort_by_saturation.tooltip=Organizar por Saturação
+
+cookingforblockheads:no_ingredients=Not\nenough\ningredientes
+cookingforblockheads:no_selection=Selecione um\nitem na direita\npara ver sua receita.
+cookingforblockheads:click_to_see_recipe=Clique para ver a receita
+cookingforblockheads:click_to_craft_one=Clique novamente para fazer
+cookingforblockheads:click_to_smelt_one=Clique novamente para cozinhar
+cookingforblockheads:click_to_craft_all=Shift-Clique para fazer uma stack
+cookingforblockheads:click_to_smelt_all=Shift-Clique para cozinhar uma stack
+cookingforblockheads:missing_tools=Falta as ferramentas necessárias
+cookingforblockheads:missing_oven=Falta um forno para cozinhar

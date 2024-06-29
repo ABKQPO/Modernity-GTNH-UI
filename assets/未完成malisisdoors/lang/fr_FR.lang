@@ -1,0 +1,176 @@
+item.wood_sliding_door.name=Porte vitrée en bois
+item.iron_sliding_door.name=Porte vitrée en fer
+item.jail_door.name=Porte de prison
+item.laboratory_door.name=Porte de laboratoire
+item.factory_door.name=Porte d'usine
+item.custom_door.name=Porte personnalisée
+item.shoji_door.name=Porte Shoji
+item.rustyHatch.name=Trappe Rouillée
+item.rustyHandle.name=Poignée Rouillée
+item.carriage_door.name=Porte cochère
+item.medieval_door.name=Porte médiévale
+item.forcefieldItem.name=Contrôleur de champs de force
+item.door_spruce.name=Porte en bois de sapin
+item.door_birch.name=Porte en bois de bouleau
+item.door_jungle.name=Porte en bois d'acajou
+item.door_acacia.name=Porte en bois d'acacia
+item.door_dark_oak.name=Porte en bois de chêne noir
+item.saloon.name=Porte de saloon
+
+item.curtain_white.name=Rideau Blanc
+item.curtain_orange.name=Rideau Orange
+item.curtain_magenta.name=Rideau Magenta
+item.curtain_light_blue.name=Rideau Bleu Clair
+item.curtain_yellow.name=Rideau Jaune
+item.curtain_lime.name=Rideau Vert Clair
+item.curtain_pink.name=Rideau Rose
+item.curtain_gray.name=Rideau Gris
+item.curtain_silver.name=Rideau Gris Clair
+item.curtain_cyan.name=Rideau Cyan
+item.curtain_purple.name=Rideau Violet
+item.curtain_blue.name=Rideau Bleu
+item.curtain_brown.name=Rideau Marron
+item.curtain_green.name=Rideau Vert
+item.curtain_red.name=Rideau Rouge
+item.curtain_black.name=Rideau Noir
+
+tile.player_sensor.name=Detecteur de joueur
+tile.vanishing_block_wood.name=Cadre de disparition en bois
+tile.vanishing_block_iron.name=Cadre de disparition en fer
+tile.vanishing_block_gold.name=Cadre de disparition en or
+tile.vanishing_block_diamond.name=Cadre de disparition en diamant
+tile.block_mixer.name=Mixeur de blocs
+tile.mixed_block.name=Bloc mixé
+tile.garage_door.name=Porte de garage
+tile.jail_door.name=Porte de prison
+tile.laboratory_door.name=Porte de laboratoire
+tile.factory_door.name=Porte d'usine
+tile.door_factory.name=Assembleur de porte
+tile.wood_sliding_door.name=Porte vitrée en bois
+tile.iron_sliding_door.name=Porte vitrée en fer
+tile.custom_door.name=Porte personnalisée
+tile.shoji_door.name=Porte Shoji
+tile.rustyHatch.name=Trappe Rouillée
+tile.carriage_door.name=Porte cochère
+tile.medieval_door.name=Porte médiévale
+tile.forcefieldDoor.name=Champs de force
+tile.rustyLadder.name=Echelle rouillée
+tile.door_spruce.name=Porte en bois de sapin
+tile.door_birch.name=Porte en bois de bouleau
+tile.door_jungle.name=Porte en bois d'acajou
+tile.door_acacia.name=Porte en bois d'acacia
+tile.door_dark_oak.name=Porte en bois de chêne noir
+tile.iron_trapdoor.name=Trappe en fer
+tile.sliding_trapdoor.name=Trappe coulissante
+tile.saloon.name=Porte de saloon
+
+tile.fenceGate.name=Portillon en bois de chêne
+tile.spruceFenceGate.name=Portillon en bois de sapin
+tile.birchFenceGate.name=Portillon en bois de bouleau
+tile.jungleFenceGate.name=Portillon en bois d'acajou
+tile.darkOakFenceGate.name=Portillon en bois de chêne noir
+tile.acaciaFenceGate.name=Portillon en bois d'acacia
+tile.camoFenceGate.name=Portillon camouflée
+
+tile.trapdoor_acacia.name=Trappe en bois d'acacia
+tile.trapdoor_birch.name=Trappe en bois de bouleau
+tile.trapdoor_dark_oak.name=Trappe en bois de chêne noir
+tile.trapdoor_jungle.name=Trappe en bois d'acajou
+tile.trapdoor_spruce.name=Trappe en bois de sapin
+
+tile.curtain_white.name=Rideau Blanc
+tile.curtain_orange.name=Rideau Orange
+tile.curtain_magenta.name=Rideau Magenta
+tile.curtain_light_blue.name=Rideau Bleu Clair
+tile.curtain_yellow.name=Rideau Jaune
+tile.curtain_lime.name=Rideau Vert Clair
+tile.curtain_pink.name=Rideau Rose
+tile.curtain_gray.name=Rideau Gris
+tile.curtain_silver.name=Rideau Gris Clair
+tile.curtain_cyan.name=Rideau Cyan
+tile.curtain_purple.name=Rideau Violet
+tile.curtain_blue.name=Rideau Bleu
+tile.curtain_brown.name=Rideau Marron
+tile.curtain_green.name=Rideau Vert
+tile.curtain_red.name=Rideau Rouge
+tile.curtain_black.name=Rideau Noir
+
+malisisdoors.command.usage=Utilisez /malisisdoors <commande> où commande est config ou version
+
+config.title=Configuration de MalisisDoors
+
+config.modifyVanillaDoors=Activer l'amélioration des portes vanilla.
+config.modifyVanillaDoors.comment1=Active l'animation des portes, trappes et portillons.
+config.modifyVanillaDoors.comment2=Les blocs sont remplacés et peuvent provoquer des conflits si d'autres mods tentent aussi de les modifier.
+
+config.enableMixedBlocks=Activer le Mixeur de blocs et les blocs mixés
+
+config.simpleMixedBlockRendering=Activer le rendu simplifié des blocs mixés
+config.simpleMixedBlockRendering.comment1=Active un rendu moins avancé pour les blocs mixés.
+config.simpleMixedBlockRendering.comment2=Activez cette option si des problèmes de rendu sont visible pour ces blocs.
+
+config.enableVanishingBlocks=Activer les cadres de disparition
+
+config.enableVanishingGlitch=Activer l'animation d'instabilité des cadres de disparition
+config.enableVanishingGlitch.comment=Les cadres deviennent instables et changent temporairement de dimension.
+
+config.vanishingGlitchChance=Fréquence d'instabilité des cadres de disparition
+config.vanishingGlitchChance.comment=A quelle fréquence les cadres deviennent instable.
+
+config.enhancedMixedBlockPlacement=Utiliser l'amélioration de placement des blocs mixés
+config.enhancedMixedBlockPlacement.comment1=Base le placement du bloc en fonction de la direction de la vue plutot que la face visée. 
+config.enhancedMixedBlockPlacement.comment2=Utiliser la touche "S'accroupir" pour inverser la position du bloc.
+
+config.enableCamoFenceGate=Activer le camo pour les portillons
+config.enableCamoFenceGate.comment=Permet aux portillons d'utiliser la texture des blocs qui l'entourent. 
+
+
+door_movement.rotating_door=Tournante
+door_movement.sliding_door=Coulissante sur le côté
+door_movement.sliding_up_door=Coulissante vers le haut
+door_movement.sliding_split_door=Coulissante vers le haut et le bas
+door_movement.rotating_split_door=Tournante vers le haut et le bas
+door_movement.vault_door=Coffre-fort
+door_movement.sliding_4ways=Coulissante des quatre côtés
+door_movement.rotating_4ways=Tournante des quatre côtés
+door_movement.rotate_around=Circulaire
+door_movement.rotate_slide=Tournante et coulissante
+door_movement.rotate_place=Tournante se replace
+door_movement.vanishing_door=Disparaissante
+door_movement.spinning_door=Tourbillonnante
+door_movement.spinning_around_door=Vortex
+door_movement.double_slide_left=Coulissante double à gauche
+door_movement.double_slide_right=Coulissante double à droite
+door_movement.double_rotate_left=Tournante double à gauche
+door_movement.double_rotate_right=Tournant double à droite
+
+
+gui.door_factory.tab_properties=Propiétés
+gui.door_factory.tab_materials=Matériaux
+gui.door_factory.tab_digicode=Digicode
+gui.door_factory.rb_create=Créer
+gui.door_factory.rb_edit=Modifier
+gui.door_factory.door_movement=Mouvement
+gui.door_factory.door_open_time=Temps d'ouverture
+gui.door_factory.door_auto_close_time=Delai de fermeture
+gui.door_factory.door_require_redstone=Nécessite redstone
+gui.door_factory.door_double_door=Double porte
+gui.door_factory.door_sound=Type de son
+gui.door_factory.door_sound.silent_door=Silencieux
+gui.door_factory.door_sound.vanilla_door=Porte originale
+gui.door_factory.door_sound.glass_door=Porte vitrée
+gui.door_factory.door_sound.jail_door=Porte de prison
+gui.door_factory.door_sound.pneumatic_door=Porte pneumatique
+gui.door_factory.door_sound.shoji_door=Porte Shoji
+gui.door_factory.door_sound.carriage_door=Grande Porte
+
+
+gui.door_factory.frame_type=Type de cadre
+gui.door_factory.top_material=Matériau haut
+gui.door_factory.bottom_material=Matériau bas
+gui.door_factory.door_edit_slot=Porte à modifier
+gui.door_factory.create_door=Créer la porte
+gui.door_factory.edit_door=Modifier la porte
+
+gui.block_mixer.simple_rendering=Rendu simplifié
+gui.block_mixer.simple_rendering_tooltip=Nécessite une mise à jour de tronçons pour les blocs du monde

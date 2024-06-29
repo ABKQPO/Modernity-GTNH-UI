@@ -1,0 +1,66 @@
+#Item Localization
+item.duplicator.name=Manager Duplicator
+item.labeler.name=Factory Labeler
+
+tile.cable_rf.name=RF Node
+tile.cable_ae.name=Energistics Connector
+
+
+
+
+gui.sfm.RfInputLong=RF Input
+gui.sfm.RfInputShort=RF Input
+
+gui.sfm.RfOutputLong=RF Output
+gui.sfm.RfOutputShort=RF Output
+
+gui.sfm.TypeRf=RF Storage
+gui.sfm.TypeRfInput=RF Provider
+gui.sfm.TypeRfOutput=RF Receiver
+gui.sfm.NoRfError=No RF Storage Selected
+
+gui.sfm.CopyCommand=Copy [Drop Command Here]
+
+gui.sfm.RfConditionShort=RF Condition
+gui.sfm.RfConditionLong=RF Condition
+gui.sfm.RfConditionMenu=RF Level
+gui.sfm.RfConditionInfo=Set the trigger level in the text box, and trigger above or below
+gui.sfm.RfConditionError=Invalid trigger level
+gui.sfm.Below=Trigger low
+
+gui.sfm.DelayOutput=Delayed Output
+gui.sfm.DelayTrigger=Delayed Trigger
+gui.sfm.DelayInfo=Set the delay in seconds, ticks before the trigger fires (minimum 5 ticks)
+gui.sfm.DelayError=Delay too low.
+gui.sfm.DelayRestart=Restart
+gui.sfm.DelayIgnore=Ignore
+
+stevesaddons.waila.labelled=Label: %s
+stevesaddons.idsucompat.isEmpty=Empty
+stevesaddons.idsucompat.contains=Contains: %s
+
+stevesaddons.chat.cleared=Label cleared
+stevesaddons.chat.saved=Label set as "%s"
+
+stevesaddons.command.notFound=Command not found
+stevesaddons.command.noPermission=You not have permission to use this command
+stevesaddons.command.loadFailed=Loading failed
+stevesaddons.command.loadSuccess=Manager loaded from: %s
+stevesaddons.command.nothingToSave=Duplicator is empty
+stevesaddons.command.saveFailed=Save failed
+stevesaddons.command.noDuplicator=Command can only be applied to a Manager Duplicator
+stevesaddons.command.savedTo=Manager saved to: %s
+stevesaddons.command.copiedToClip=Pastebin link loaded onto clipboard
+
+stevesaddons.command.info.help.start=Available commands are:
+stevesaddons.command.help.syntax=/stevesaddons help [command]
+stevesaddons.command.info.help=For help with all available commands.
+stevesaddons.command.info.load=Load the given filename to a held Duplicator.
+stevesaddons.command.load.syntax=/stevesaddons load <filename>
+stevesaddons.command.info.save=Saves the held Duplicator to a file with optional name (defaults to player's name + coordinates)
+stevesaddons.command.save.syntax=/stevesaddons save [filename]
+stevesaddons.command.info.pastebin=Put or get data between Pastebin and a held Duplicator.
+stevesaddons.command.pastebin.syntax=/stevesaddons pastebin {put | get <paste>}
+stevesaddons.command.info.clear=Clears a held Duplicator
+stevesaddons.command.clear.syntax=/stevesaddons clear
+

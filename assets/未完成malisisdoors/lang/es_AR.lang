@@ -1,0 +1,81 @@
+item.wood_sliding_door.name=Puerta Corrediza de Madera
+item.iron_sliding_door.name=Puerta Corrediza de Hierro
+item.jail_door.name=Puerta de Celda
+item.laboratory_door.name=Puerta de Laboratorio
+item.factory_door.name=Puerta de Fábrica
+item.custom_door.name=Puerta Personalizada
+item.shoji_door.name=Puerta Shoji
+
+tile.player_sensor.name=Detector de Jugador
+tile.vanishing_block_wood.name=Marco Fantasma de Madera
+tile.vanishing_block_iron.name=Marco Fantasma de Hierro
+tile.vanishing_block_gold.name=Marco Fantasma de Oro
+tile.vanishing_block_diamond.name=Marco Fantasma de Diamante
+tile.block_mixer.name=Mezclador de Bloques
+tile.mixed_block.name=Bloque Mixto
+tile.garage_door.name=Puerta de Garaje
+tile.jail_door.name=Puerta de Celda
+tile.laboratory_door.name=Puerta de Laboratorio
+tile.factory_door.name=Puerta de Fábrica
+tile.door_factory.name=Puerta de Fábrica
+tile.custom_door.name=Puerta Personalizada
+tile.shoji_door.name=Puerta Shoji
+
+malisisdoors.command.usage=Use /malisisdoors command con el argumento config o version
+
+config.title=Configuración de MalisisDoors
+
+config.modifyVanillaDoors=Permitir mejora a las puertas de Minecraft normal.
+config.modifyVanillaDoors.comment1=Permitir animaciones para puertas, puertas de vallas y escotillas.
+config.modifyVanillaDoors.comment2=Esto reemplaza completamente las puertas; pueden surgir conflictos si otro mod trata de modificarlas también.
+
+config.enableMixedBlocks=Permitir Mezclador de Bloques y Bloques Mixtos.
+
+config.simpleMixedBlockRendering=Renderizado de Bloques Mixtos Simple.
+config.simpleMixedBlockRendering.comment1=Permite un renderizado de Bloques Mixtos menos detallado.
+config.simpleMixedBlockRendering.comment2=Habilita esta opción si experimentas problemas de z-fighting o glitchs en el renderizado.
+
+config.enableVanishingBlocks=Permitir Marcos Fantasma
+
+config.enableVanishingGlitch=Permitir animación tipo "glitch" de marcos fantasma.
+config.enableVanishingGlitch.comment=Aleatoriamente los marcos se desestabilizan y se desplazan fuera de esta dimensión.
+
+config.vanishingGlitchChance=Frecuencia de la animación de los marcos fantasma.
+config.vanishingGlitchChance.comment=Qué tan frecuente es la inestabilidad de los marcos fantasma.
+
+config.enhancedMixedBlockPlacement=Usar colocación mejorada de los bloques mixtos.
+config.enhancedMixedBlockPlacement.comment1=Permite colocar la base del bloque donde miras en vez de la cara en la que lo estás colocando.
+config.enhancedMixedBlockPlacement.comment2=Usa shift para invertir la colocación de bloques.
+
+door_movement.rotating_door=Rotación
+door_movement.sliding_door=Desplazamiento hacia el costado
+door_movement.sliding_up_door=Desplazamiento hacia arriba
+door_movement.sliding_split_door=Desplazamiento hacia arriba y abajo
+door_movement.rotating_split_door=Rotación hacia arriba y abajo
+door_movement.vault_door=Bóveda
+door_movement.sliding_4ways=Desplazamiento en cuatro direcciones
+door_movement.rotating_4ways=Rotación en cuatro direcciones
+door_movement.rotate_around=Rotar hacia atrás
+door_movement.rotate_slide=Rotar y desplazar
+door_movement.rotate_place=Rotar hacia adelante
+
+gui.door_factory.tab_properties=Propiedades
+gui.door_factory.tab_materials=Materiales
+gui.door_factory.door_movement=Movimiento
+gui.door_factory.door_open_time=Tiempo de Apertura
+gui.door_factory.door_require_redstone=Requiere redstone
+gui.door_factory.door_double_door=Puerta Doble
+gui.door_factory.door_sound=Tipo de Sonido
+gui.door_factory.door_sound.vanilla_door=Puerta normal
+gui.door_factory.door_sound.glass_door=Puerta Corrediza
+gui.door_factory.door_sound.jail_door=Puerta de Celda
+gui.door_factory.door_sound.pneumatic_door=Puerta Neumática
+
+
+gui.door_factory.frame_type=Tipo de marco
+gui.door_factory.top_material=Material de la parte superior
+gui.door_factory.bottom_material=Material de la parte inferior
+gui.door_factory.create_door=Construir puerta
+
+gui.block_mixer.simple_rendering=Renderizado Simple
+gui.block_mixer.simple_rendering_tooltip=En el mundo, los bloques requieren actualización de los chunks para que se muestren los cambios.

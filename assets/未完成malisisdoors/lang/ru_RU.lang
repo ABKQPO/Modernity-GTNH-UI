@@ -1,0 +1,132 @@
+itemGroup.malisisdoors=Malisis'Doors
+
+item.wood_sliding_door.name=Деревянная стеклянная дверь
+item.iron_sliding_door.name=Железная стеклянная дверь
+item.jail_door.name=Тюремная дверь
+item.laboratory_door.name=Лабораторная дверь
+item.factory_door.name=Фабричная дверь
+item.custom_door.name=Пользовательская дверь
+item.shoji_door.name=Дверь Сёдзи
+item.rustyHatch.name=Ржавый люк
+item.rustyHandle.name=Ржавый вентиль
+item.curtain.name=Занавеска
+item.carriage_door.name=Дверь-фрейм
+item.forcefieldItem.name=Контроллер силового поля
+item.door_spruce.name=Дверь из ели
+item.door_birch.name=Дверь из берёзы
+item.door_jungle.name=Дверь из тропического дерева
+item.door_acacia.name=Дверь из акации
+item.door_dark_oak.name=Дверь из тёмного дуба
+item.saloon.name=Дверь салуна
+
+
+tile.player_sensor.name=Датчик игрока
+tile.vanishing_block_wood.name=Деревянная рамка исчезновения
+tile.vanishing_block_iron.name=Железная рамка исчезновения
+tile.vanishing_block_gold.name=Золотая рамка исчезновения
+tile.vanishing_block_diamond.name=Алмазная рамка исчезновения
+tile.block_mixer.name=Смешиватель блоков
+tile.mixed_block.name=Смешанный блок
+tile.garage_door.name=Гаражная дверь
+tile.jail_door.name=Тюремная дверь
+tile.laboratory_door.name=Лабораторная дверь
+tile.factory_door.name=Фабричная дверь
+tile.door_factory.name=Дверная фабрика
+tile.custom_door.name=Пользовательская дверь
+tile.shoji_door.name=Дверь Сёдзи
+tile.wood_sliding_door.name=Деревянная стеклянная дверь
+tile.iron_sliding_door.name=Железная стеклянная дверь
+tile.rustyHatch.name=Ржавый люк
+tile.curtain.name=Занавеска
+tile.carriage_door.name=Дверь-фрейм
+tile.forcefieldDoor.name=Силовое поле
+tile.rustyLadder.name=Ржавая лестница
+tile.door_spruce.name=Дверь из ели
+tile.door_birch.name=Дверь из берёзы
+tile.door_jungle.name=Дверь из тропического дерева
+tile.door_acacia.name=Дверь из акации
+tile.door_dark_oak.name=Дверь из тёмного дуба
+tile.iron_trapdoor.name=Железный люк
+tile.sliding_trapdoor.name=Задвижной люк
+tile.saloon.name=Дверь салуна
+
+malisisdoors.command.usage=Используйте /malisisdoors <команда>, где "команда" - это "config" или "version"
+
+config.title=Настройки MalisisDoors
+
+config.modifyVanillaDoors=Включить улучшение стандартных дверей
+config.modifyVanillaDoors.comment1=Включает анимацию для дверей, калиток и люков.
+config.modifyVanillaDoors.comment2=Это полностью заменит двери, так что могут появиться конфликты, если другой мод попытается изменить их.
+
+config.enableMixedBlocks=Включить смешиватель блоков и смешанные блоки
+
+config.simpleMixedBlockRendering=Упрощённое отображение смешанных блоков
+config.simpleMixedBlockRendering.comment1=Включает менее качественное отображение для смешанных блоков.
+config.simpleMixedBlockRendering.comment2=Включите эту опцию, если наблюдаются ошибки в отображении блоков и эффектов мода.
+
+config.enableVanishingBlocks=Включить рамки исчезновения
+
+config.enableVanishingGlitch=Включить анимацию "мерцания" рамок исчезновения
+config.enableVanishingGlitch.comment=Рамки иногда становятся нестабильными и на время выпадают из этого измерения.
+
+config.vanishingGlitchChance=Частота анимации "мерцания" рамок исчезновения
+config.vanishingGlitchChance.comment=Как часто рамки становятся нестабильными.
+
+config.enhancedMixedBlockPlacement=Использовать продвинутую систему размещения смешанных блоков
+config.enhancedMixedBlockPlacement.comment1=Позволяет разместить основу блока в точке взгляда, а не на стороне какого-либо ранее размещённого блока.
+config.enhancedMixedBlockPlacement.comment2=Присядьте, чтобы изменить размещение блока.
+
+config.enableCamoFenceGate=Включить "камуфляжные" калитки
+config.enableCamoFenceGate.comment=Позволяет калиткам использовать текстуру ближайших блоков. 
+
+
+door_movement.rotating_door=Вращение
+door_movement.sliding_door=Сдвиг в сторону
+door_movement.sliding_up_door=Сдвиг вверх
+door_movement.sliding_split_door=Сдвиг вверх и вниз
+door_movement.rotating_split_door=Вращение вверх и вниз
+door_movement.vault_door=Хранилище
+door_movement.sliding_4ways=4-сторонний сдвиг
+door_movement.rotating_4ways=4-стороннее вращение
+door_movement.rotate_around=Вращение вокруг
+door_movement.rotate_slide=Вращение и сдвиг
+door_movement.rotate_place=Вращение и замена
+door_movement.vanishing_door=Исчезновение
+door_movement.spinning_door=Кручение
+door_movement.spinning_around_door=Кручение вокруг
+door_movement.double_slide_left=Двойной сдвиг влево
+door_movement.double_slide_right=Двойной сдвиг вправо
+door_movement.double_rotate_left=Двойное вращение влево
+door_movement.double_rotate_right=Двойное вращение вправо
+
+
+
+gui.door_factory.tab_properties=Свойства
+gui.door_factory.tab_materials=Материалы
+gui.door_factory.tab_digicode=Цифр. код
+gui.door_factory.rb_create=Сделать
+gui.door_factory.rb_edit=Изменить
+gui.door_factory.door_movement=Движение
+gui.door_factory.door_open_time=Время открытия
+gui.door_factory.door_auto_close_time=Задержка закрытия
+gui.door_factory.door_require_redstone=Требуется сигнал красного камня
+gui.door_factory.door_double_door=Двойная дверь
+gui.door_factory.door_sound=Тип звука
+gui.door_factory.door_sound.silent_door=Без звука
+gui.door_factory.door_sound.vanilla_door=Обычная дверь
+gui.door_factory.door_sound.glass_door=Стеклянная дверь
+gui.door_factory.door_sound.jail_door=Тюремная дверь
+gui.door_factory.door_sound.pneumatic_door=Пневматическая дверь
+gui.door_factory.door_sound.shoji_door=Дверь Сёдзи
+gui.door_factory.door_sound.carriage_door=Дверь-фрейм
+
+
+gui.door_factory.frame_type=Тип рамки
+gui.door_factory.top_material=Материал верхнего блока
+gui.door_factory.bottom_material=Материал нижнего блока
+gui.door_factory.door_edit_slot=Дверь для изменения
+gui.door_factory.create_door=Сделать дверь
+gui.door_factory.edit_door=Изменить дверь
+
+gui.block_mixer.simple_rendering=Упрощённое отображение
+gui.block_mixer.simple_rendering_tooltip=Потребуется обновление чанка, чтобы изменения проявились.

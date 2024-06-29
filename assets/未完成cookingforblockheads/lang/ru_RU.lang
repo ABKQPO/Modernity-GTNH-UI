@@ -1,0 +1,76 @@
+item.cookingforblockheads:recipebook_tier0.name=Готовка для кубоголовых
+item.cookingforblockheads:recipebook_tier1.name=Готовка для кубоголовых I
+item.cookingforblockheads:recipebook_tier2.name=Готовка для кубоголовых II
+item.cookingforblockheads:toast.name=Тост
+
+tile.cookingforblockheads:cookingtable.name=Кулинарный стол
+tile.cookingforblockheads:cookingoven.name=Кухонная духовка
+tile.cookingforblockheads:fridge.name=Холодильник
+tile.cookingforblockheads:counter.name=Кухонный шкаф
+tile.cookingforblockheads:counter_corner.name=Угловой кухонный шкаф
+tile.cookingforblockheads:cabinet.name=Навесной кухонный шкаф
+tile.cookingforblockheads:cabinet_corner.name=Угловой навесной кухонный шкаф
+tile.cookingforblockheads:white_kitchen_floor.name=Кухонный пол
+tile.cookingforblockheads:orange_kitchen_floor.name=Оранжевый кухонный пол
+tile.cookingforblockheads:magenta_kitchen_floor.name=Пурпурный кухонный пол
+tile.cookingforblockheads:light_blue_kitchen_floor.name=Светло-голубой кухонный пол
+tile.cookingforblockheads:yellow_kitchen_floor.name=Желтый кухонный пол
+tile.cookingforblockheads:lime_kitchen_floor.name=Лаймовый кухонный пол
+tile.cookingforblockheads:pink_kitchen_floor.name=Розовый кухонный пол
+tile.cookingforblockheads:gray_kitchen_floor.name=Серый кухонный пол
+tile.cookingforblockheads:light_gray_kitchen_floor.name=Светло-серый кухонный пол
+tile.cookingforblockheads:cyan_kitchen_floor.name=Бирюзовый кухонный пол
+tile.cookingforblockheads:purple_kitchen_floor.name=Фиолетовый кухонный пол
+tile.cookingforblockheads:blue_kitchen_floor.name=Синий кухонный пол
+tile.cookingforblockheads:brown_kitchen_floor.name=Коричневый кухонный пол
+tile.cookingforblockheads:green_kitchen_floor.name=Зеленый кухонный пол
+tile.cookingforblockheads:red_kitchen_floor.name=Красный кухонный пол
+tile.cookingforblockheads:black_kitchen_floor.name=Черный кухонный пол
+tile.cookingforblockheads:sink.name=Раковина
+tile.cookingforblockheads:toolrack.name=Стойка для кухонных принадлежностей
+tile.cookingforblockheads:toaster.name=Тостер
+
+container.cookingforblockheads:cookingoven=Кухонная духовка
+container.cookingforblockheads:fridge=Холодильник
+container.cookingforblockheads:counter=Кухонный шкаф
+container.cookingforblockheads:cabinet=Навесной кухонный шкаф
+
+itemGroup.cookingforblockheads=Готовка для кубоголовых
+
+cookingforblockheads:recipebook_tier0.tooltip=#NoFilter Edition
+cookingforblockheads:recipebook_tier0.tooltipDesc=Показывает все рецепты еды.
+
+cookingforblockheads:recipebook_tier1.tooltip=Книга рецептов
+cookingforblockheads:recipebook_tier1.tooltipDesc=Показывает еду, которую вы можете приготовить\nиз тех ингридиентов, которые есть у вас в инвентаре.
+
+cookingforblockheads:recipebook_tier2.tooltip=Книга для готовки
+cookingforblockheads:recipebook_tier2.tooltipDesc=Может готовить еду, используя ингридиентов,\nкоторые есть у вас в инвентаре.
+
+cookingforblockheads:multiblockKitchen=Мультиблочная кухня
+cookingforblockheads:dyeable=Поддающийся окраске
+cookingforblockheads:cookingtable.tooltipDesc=Позволяет готовить.
+cookingforblockheads:cookingoven.tooltipDesc=Позволяет обжаривать еду.
+cookingforblockheads:sink.tooltipDesc=Обеспечивает водой для готовки.
+cookingforblockheads:fridge.tooltipDesc=Предоставляет содержимые ингредиенты для готовки.
+cookingforblockheads:counter.tooltipDesc=Хранит ингредиенты для готовки.
+cookingforblockheads:countercorner.tooltipDesc=Поддерживает внешний вид кухни.
+cookingforblockheads:cabinet.tooltipDesc=Хранит ингредиенты для готовки.
+cookingforblockheads:cabinetcorner.tooltipDesc=Поддерживает внешний вид кухни.
+cookingforblockheads:kitchen_floor.tooltipDesc=Соединяйте кухонные блоки на расстоянии.
+cookingforblockheads:toolrack.tooltipDesc=Предоставляет кухонные принадлежности для готовки.
+cookingforblockheads:toaster.tooltipDesc=Поджаривает хлеб.
+
+cookingforblockheads:sort_by_name.tooltip=Сортировать по названию
+cookingforblockheads:sort_by_hunger.tooltip=Сортировка по сытности
+cookingforblockheads:sort_by_saturation.tooltip=Сортировка по насыщенности
+cookingforblockheads:sort_by_sol.tooltip=Сортировать по количеству употребленных в пищу
+
+cookingforblockheads:no_ingredients=Недостаточно\nингридиентов
+cookingforblockheads:no_selection=Выберете продукт\nсправа чтобы\nувидеть его рецепт
+cookingforblockheads:click_to_see_recipe=ЛКМ чтобы увидеть рецепт
+cookingforblockheads:click_to_craft_one=ЛКМ ещё раз для готовки
+cookingforblockheads:click_to_smelt_one=ЛКМ ещё раз для обжарки
+cookingforblockheads:click_to_craft_all=Shift-ЛКМ для готовки стака
+cookingforblockheads:click_to_smelt_all=Shift-ЛКМ для обжарки стака
+cookingforblockheads:missing_tools=Отсутствуют принадлежности для готовки
+cookingforblockheads:missing_oven=Отсутствует духовка для приготовления
