@@ -30,7 +30,7 @@ jobs:
           for path in $INCLUDE_PATHS; do
             cp -r --parents "$path" zip-root/
           done
-          zip -r Modernity-GTNH-UI-${{ github.event.release.tag_name }}.zip zip-root
+          (cd zip-root && zip -r ../Modernity-GTNH-UI-${{ github.event.release.tag_name }}.zip .)
           rm -rf zip-root
         shell: bash
 
