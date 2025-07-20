@@ -1,15 +1,15 @@
-name: Test Build
+name: Auto Commit Build
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - main
 
 jobs:
-  package-release:
+  build-and-release:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: read
 
     env:
       INCLUDE_PATHS: |
@@ -18,26 +18,50 @@ jobs:
         pack.png
         README.md
 
+      TARGET_BRANCHES: "main"
+      ZIP_NAME_main: "Modernity-GTNH-UI-{SHA}-pre.zip"
+
     steps:
-      - name: Checkout repository at release tag
+      - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.release.tag_name }}
+          fetch-depth: 0
 
-      - name: Prepare zip file
+      - name: Get short commit hash
+        id: vars
+        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
+
+      - name: Build all branches
         run: |
-          mkdir zip-root
-          for path in $INCLUDE_PATHS; do
-            cp -r --parents "$path" zip-root/
-          done
-          (cd zip-root && zip -r ../Modernity-GTNH-UI-${{ github.event.release.tag_name }}.zip .)
-          rm -rf zip-root
-        shell: bash
+          for BRANCH in $TARGET_BRANCHES; do
+            git checkout $BRANCH
+            VAR_NAME="ZIP_NAME_${BRANCH//-/_}"
+            ZIP_TEMPLATE="${!VAR_NAME}"
+            ZIP_NAME="${ZIP_TEMPLATE//\{SHA\}/$SHORT_SHA}"
 
-      - name: Upload files to release
-        if: success()
+            rm -rf zip-root
+            mkdir zip-root
+            for path in $INCLUDE_PATHS; do
+              if [ -e "$path" ]; then
+                cp -r --parents "$path" zip-root/
+              fi
+            done
+            cd zip-root
+            zip -r "../$ZIP_NAME" ./
+            cd ..
+          done
+        shell: bash
+        env:
+          INCLUDE_PATHS: ${{ env.INCLUDE_PATHS }}
+          SHORT_SHA: ${{ env.SHORT_SHA }}
+          ZIP_NAME_main: ${{ env.ZIP_NAME_main }}
+
+      - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: ${{ github.event.release.tag_name }}
+          name: Commit ${{ env.SHORT_SHA }}
+          tag_name: commit-${{ env.SHORT_SHA }}
+          prerelease: false
+          make_latest: true
           files: |
-            Modernity-GTNH-UI-${{ github.event.release.tag_name }}.zip
+            Modernity-GTNH-UI-${{ env.SHORT_SHA }}-pre.zip
