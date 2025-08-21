@@ -1,0 +1,348 @@
+[
+  {
+    "themeParent": "none",
+    "themeName": "Modernity",
+    "themeID": "betterquesting:modernity",
+    "textures":
+    {
+      "betterquesting:panel_main":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 0, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [40, 32, 8, 8],
+        "padding": [2, 2, 2, 3],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [40, 40, 8, 8],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [40, 48, 8, 8],
+        "padding": [2, 2, 2, 3],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_v_bg":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 40, 8, 16],
+        "padding": [1, 3, 1, 1],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_v_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [32, 40, 8, 16],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_v_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [32, 40, 8, 16],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_v_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [32, 40, 8, 16],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_h_bg":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 24, 16, 8],
+        "padding": [3, 1, 1, 1],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_h_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 32, 16, 8],
+        "padding": [2, 2, 4, 2],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_h_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 32, 16, 8],
+        "padding": [2, 2, 4, 2],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_h_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 32, 16, 8],
+        "padding": [2, 2, 4, 2],
+        "sliceMode": 1
+      },
+      "betterquesting:item_frame":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [40, 24, 8, 8],
+        "padding": [1, 2, 1, 1],
+        "sliceMode": 1
+      },
+      "betterquesting:aux_frame_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 0, 24, 24],
+        "padding": [1, 3, 1, 1],
+        "sliceMode": 1
+      },
+      "betterquesting:panel_inner":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 24, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:tooltip_bg":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 48, 8, 8],
+        "padding": [2, 2, 2, 2],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_norm_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 56, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_norm_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 56, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_norm_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 56, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_norm_3":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [0, 56, 24, 24],
+        "padding": [2, 2, 2, 4],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_main_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 56, 24, 24],
+        "padding": [10, 10, 10, 10],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_main_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 56, 24, 24],
+        "padding": [10, 10, 10, 10],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_main_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 56, 24, 24],
+        "padding": [10, 10, 10, 10],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_main_3":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "betterquesting:textures/gui/modernity.png",
+        "bounds": [24, 56, 24, 24],
+        "padding": [10, 10, 10, 10],
+        "sliceMode": 1
+      }
+    },
+    "colors":
+    {
+      "betterquesting:text_header":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:text_main":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:gui_divider":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:grid_major":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:grid_minor":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:quest_line_locked":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FFC00000"
+      },
+      "betterquesting:quest_line_unlocked":
+      {
+        "colorType": "betterquesting:color_pulse",
+        "period": 1.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFFFFF00"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FF808000"
+        }
+      },
+      "betterquesting:quest_line_pending":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF00FF00"
+      },
+      "betterquesting:quest_line_complete":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF00FF00"
+      },
+      "betterquesting:quest_icon_locked":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF808080"
+      },
+      "betterquesting:quest_icon_unlocked":
+      {
+        "colorType": "betterquesting:color_pulse",
+        "period": 1.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFC00000"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FF600000"
+        }
+      },
+      "betterquesting:quest_icon_pending":
+      {
+        "colorType": "betterquesting:color_pulse",
+        "period": 1.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FF00FFFF"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FF008080"
+        }
+      },
+      "betterquesting:quest_icon_complete":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF00FF00"
+      }
+    },
+    "lines":
+    {
+      "betterquesting:gui_divider":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:grid_major":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:grid_minor":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 2,
+        "stippleMask": "1010101010101010"
+      },
+      "betterquesting:quest_locked":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_unlocked":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_pending":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_complete":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      }
+    }
+  }
+]
