@@ -1,0 +1,48 @@
+FramedChest.name=§fFramed Chest
+
+gui.painting.showFrame=§fShow Frame
+gui.painting.hideFrame=§fHide Frame
+gui.painting.scale=§fScale
+gui.painting.resolution=§fResolution
+gui.painting.aspectRatio=§fAspect Ratio
+gui.painting.size=§fPainting Size
+gui.painting.rotation=§fRotation
+gui.painting.corner=§fMaster Corner
+
+gui.paintpress.page=§fPage
+gui.paintpress.of=§fof
+
+gui.paintpress.transfer=§fTransfer
+gui.paintpress.vanilla=§fVanilla
+gui.paintpress.custom=§fCustom
+
+gui.sign.scale=§fText Scale
+gui.sign.format=§fFormat
+gui.sign.linenum=§fLine#
+
+gui.sign.left=§fLeft
+gui.sign.center=§fCenter
+gui.sign.right=§fRight
+
+gui.sign.tooltip1=§fClick a box or press tab to select an editing panel. Tab will cycle panels.
+
+gui.fancyworkbench=§fFancy Workbench
+
+gui.armorstand=§fArmor Stand
+gui.bookcase=§fBookcase
+gui.cookiejar=§fCookie Jar
+gui.shelf=§fWooden Shelf
+gui.label=§fWooden Label
+gui.potionshelf=§fPotion Shelf
+gui.table=§fWooden Table
+gui.case=§fDisplay Case
+gui.toolrack=§fTool Rack
+gui.desk=§fWooden Desk
+gui.mapWaypoint.accept=§fAccept
+gui.mapWaypoint.remove=§fRemove
+gui.mapWaypoint.cancel=§fCancel
+gui.mapWaypoint.waypoint=§fWaypoint
+gui.compass.x=§fX:
+gui.compass.z=§fZ:
+gui.dinnerPlate=§fDinner Plate
+gui.discRack=§fDisc Rack

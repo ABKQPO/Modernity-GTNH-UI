@@ -1,0 +1,8 @@
+DrawersstorageDrawers.container.drawers=§fDrawers
+storageDrawers.container.compDrawers=§fCompacting Drawers
+storageDrawers.container.upgrades=§fUpgrades
+storageDrawers.container.controller=§fDrawer Controller
+storageDrawers.container.unboundSlave=§fUnbound Slave
+storageDrawers.container.framingTable=§fFraming Table
+
+storagedrawers.msg.maxUpgrades=§fThis drawer cannot accept any more upgrades.

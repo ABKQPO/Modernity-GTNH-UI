@@ -1,0 +1,9 @@
+#Container
+container.chisel=§fChisel
+container.chisel.title=§fCarve blocks
+container.chisel.titleShort=§fCarve
+container.chisel.mode=§fMode:
+container.chisel.mode.single=§fSingle
+container.chisel.mode.panel=§fPanel
+container.chisel.mode.column=§fColumn
+container.chisel.mode.row=§fRow

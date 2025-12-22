@@ -1,0 +1,15 @@
+
+gui.personalWorld.voidWorld=Void world
+gui.personalWorld.biome=§fBiome name
+gui.personalWorld.presets=§fPresets
+gui.personalWorld.layers=§fLayers
+
+gui.personalWorld.skyColor=§fSky color
+gui.personalWorld.starBrightness=§fStar brightness
+
+gui.personalWorld.vegetation=§fFoliage
+gui.personalWorld.trees=§fTrees
+gui.personalWorld.weather=§fWeather
+gui.personalWorld.clouds=§fClouds
+
+

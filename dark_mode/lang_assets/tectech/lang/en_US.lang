@@ -1,0 +1,20 @@
+gt.blockmachines.multimachine.FOG.modulestatus=§fStatus:§f
+gt.blockmachines.multimachine.FOG.expectedinputs=§fExpected Inputs
+gt.blockmachines.multimachine.FOG.possibleinputsqgp=§fPossible Input Materials for QGP
+gt.blockmachines.multimachine.FOG.possibleinputsmagmatter=§fPossible Input Materials for Magmatter
+gt.blockmachines.multimachine.FOG.fuelconsumption=§fStellar Fuel Consumption Factor
+gt.blockmachines.multimachine.FOG.fueltype=§fClick to Select Fuel Type
+gt.blockmachines.multimachine.FOG.fuelusage=§fFuel Usage
+
+fog.cosmetics.applycolor=§fApply
+fog.cosmetics.addcolor=§fAdd
+fog.cosmetics.resetcolor=§fReset
+fog.cosmetics.savecolors=§fSave
+fog.cosmetics.deletecolors=§fDelete
+fog.cosmetics.importcolors=§fImport
+fog.cosmetics.exportcolors=§fExport
+
+fog.upgrade.confirm=§fConstruct
+gt.blockmachines.multimachine.FOG.consumeUpgradeMats=§fClick to consume upgrade materials
+
+tt.wirelessInputData.config.text=§fConfigure how much computation to pull from wireless network

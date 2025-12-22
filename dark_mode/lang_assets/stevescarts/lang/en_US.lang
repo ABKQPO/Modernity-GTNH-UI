@@ -1,0 +1,200 @@
+# ======================================
+				BLOCK GUI
+# ======================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§fCart Assembler
+gui.SC2:basicAssembleInstruction=§fTo start making a cart, please add a Cart Hull of your choice to the Hull Slot.
+gui.SC2:invalidHullError=§fThe Cart Hull added to the Hull Slot is not a valid Hull. This should not be possible so you've probably done something strange.
+gui.SC2:hullCapacity=§fHull capacity
+gui.SC2:complexityCap=§fComplexity cap
+gui.SC2:totalCost=§fTotal cost
+gui.SC2:totalTime=§fTotal Time
+gui.SC2:readyMessage=§fReady to assemble cart!
+gui.SC2:assembleProgress=§fProgress
+gui.SC2:timeLeft=§fTime left
+gui.SC2:idleAssemblerMessage=§fThe assembler is currently idle
+gui.SC2:modifyCart=§fModify cart
+gui.SC2:assembleCart=§fAssemble cart
+gui.SC2:fuelLevel=§fFuel level
+# need beta 3 for these ones to show up (remove this note)
+gui.SC2:noHullError=§fYou have no hull
+gui.SC2:invalidHullErrorShort=§fThe hull added is not a hull!
+gui.SC2:busyAssemblerError=§fThe Assembler is busy!
+gui.SC2:departureBayError=§fThere's a Cart in the Departure Bay.
+# end of beta 3 requirement (remove this note)
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§fManager
+gui.SC2:currentSetting=§fCurrently
+gui.SC2:changeTransferDirection=§fChange transfer direction
+gui.SC2:directionToCart=§fTo the cart
+gui.SC2:directionFromCart=§fFrom the cart
+gui.SC2:changeTurnBack=§fChange turn back settings
+gui.SC2:turnBackDisabled=§fNo side selected
+gui.SC2:turnBack=§fTurn back after transfer
+gui.SC2:continueForward=§fContinue along after transfer
+gui.SC2:changeTransferSize=§fChange transfer size
+gui.SC2:changeSide=§fChange side
+gui.SC2:currentSide=§fCurrent side
+gui.SC2:sideRed=§fRed
+gui.SC2:sideBlue=§fBlue
+gui.SC2:sideYellow=§fYellow
+gui.SC2:sideGreen=§fGreen
+gui.SC2:sideDisabled=§fDisabled
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§fCargo
+gui.SC2:changeSlotLayout=§fChange slot layout
+gui.SC2:layoutShared=§fAll slots are shared by all sides
+gui.SC2:layoutSide=§fEach side has its own slots
+gui.SC2:layoutColor=§fEach color has its own slots
+gui.SC2:transferAll=§fTransfer as much as possible
+gui.SC2:transferItems=§fTransfer a maximum of [%1] [%2:item|items]
+gui.SC2:transferStacks=§fTransfer a maximum of [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§fMAX
+gui.SC2:transferItemsShort=§fI
+gui.SC2:transferStacksShort=§fS
+gui.SC2:changeTransferCartArea=§fChange part of the cart
+gui.SC2:unknownAreaMessage=§fUnknown option
+gui.SC2:cartAreaAll=§fAll slots
+gui.SC2:cartAreaEngine=§fEngine
+gui.SC2:cartAreaRailer=§fRailers
+gui.SC2:cartAreaStorage=§fStorage slots
+gui.SC2:cartAreaTorches=§fTorches
+gui.SC2:cartAreaExplosives=§fExplosives
+gui.SC2:cartAreaArrows=§fArrows
+gui.SC2:cartAreaBridge=§fBridge material
+gui.SC2:cartAreaSeeds=§fSeeds
+gui.SC2:cartAreaFertilizer=§fFertilizer
+gui.SC2:cartAreaSaplings=§fSaplings
+gui.SC2:cartAreaFirework=§fFirework
+gui.SC2:cartAreaBuckets=§fBuckets (for milker)
+gui.SC2:cartAreaCakes=§fCakes
+gui.SC2:cartAreaCropsticks=§fCropsticks
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§fLiquid
+gui.SC2:changeTankLayout=§fChange tank layout
+gui.SC2:layoutSharedTanks=§fAll tanks are shared by all sides
+gui.SC2:layoutSidedTanks=§fEach side has its own tank
+gui.SC2:layoutColorTanks=§fEach color has its own tank(s)
+gui.SC2:transferAllLiquid=§fTransfer as much as possible
+gui.SC2:transferBuckets=§fTransfer a maximum of [%1]
+gui.SC2:transferAllLiquidShort=§fMAX
+gui.SC2:transferBucketShort=§fB
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§fModule Toggler
+gui.SC2:optionDrill=§fDrill
+gui.SC2:optionShield=§fShield
+gui.SC2:optionInvisibility=§fInvisibility
+gui.SC2:optionChunk=§fChunk loading
+gui.SC2:optionCageAuto=§fCage auto pick up
+gui.SC2:optionCage=§fCage pick up
+gui.SC2:settingDisabled=§fDisabled
+gui.SC2:settingOrange=§fOrange direction
+gui.SC2:settingBlue=§fBlue direction
+gui.SC2:stateActivate=§fActivate
+gui.SC2:stateDeactivate=§fDeactivate
+gui.SC2:stateToggle=§fToggle
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§fExternal Distributor
+gui.SC2:distributorNotConnected=§fNot connected to any Managers!
+gui.SC2:sideName=§f[%1] side
+gui.SC2:dropInstruction=§fDrop here to add this setting
+gui.SC2:removeInstruction=§fRight click to remove
+gui.SC2:distributorAll=§fAll
+gui.SC2:distributorRed=§fRed
+gui.SC2:distributorBlue=§fBlue
+gui.SC2:distributorYellow=§fYellow
+gui.SC2:distributorGreen=§fGreen
+gui.SC2:distributorTopLeft=§fTop Left
+gui.SC2:distributorTopRight=§fTop Right
+gui.SC2:distributorBottomLeft=§fBottom Left
+gui.SC2:distributorBottomRight=§fBottom Right
+gui.SC2:distributorToCart=§fTo Cart
+gui.SC2:distributorFromCart=§fFrom Cart
+gui.SC2:managerTop=§fTop Manager
+gui.SC2:managerBot=§fBot Manager
+gui.SC2:distributorSideOrange=§fOrange
+gui.SC2:distributorSidePurple=§fPurple
+gui.SC2:distributorSideYellow=§fYellow
+gui.SC2:distributorSideGreen=§fGreen
+gui.SC2:distributorSideBlue=§fBlue
+gui.SC2:distributorSideRed=§fRed
+gui.SC2:sideToolTip=§fSide: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§fOUTPUT
+gui.SC2:operatorAnd=§fAND
+gui.SC2:operatorOr=§fOR
+gui.SC2:operatorNot=§fNOT
+gui.SC2:operatorXor=§fXOR
+gui.SC2:operatorTopUnit=§fTop Unit
+gui.SC2:operatorBotUnit=§fBottom Unit
+gui.SC2:operatorNorthUnit=§fNorth Unit
+gui.SC2:operatorWestUnit=§fWest Unit
+gui.SC2:operatorSouthUnit=§fSouth Unit
+gui.SC2:operatorEastUnit=§fEast Unit
+gui.SC2:operatorRedstone=§fRedstone Input
+gui.SC2:operatorRedstoneTop=§fTop Redstone Input
+gui.SC2:operatorRedstoneBot=§fBottom Redstone Input
+gui.SC2:operatorRedstoneNorth=§fNorth Redstone Input
+gui.SC2:operatorRedstoneWest=§fWest Redstone Input
+gui.SC2:operatorRedstoneSouth=§fSouth Redstone Input
+gui.SC2:operatorRedstoneEast=§fEast Redstone Input
+gui.SC2:stateRails=§fHave rail supplies
+gui.SC2:stateTorches=§fHave torch supplies
+gui.SC2:stateSaplings=§fHave sapling supplies
+gui.SC2:sateSeeds=§fHave seed supplies
+gui.SC2:stateBridge=§fHave bridge supplies
+gui.SC2:stateProjectiles=§fHave projectile supplies
+gui.SC2:stateFertilizing=§fHave fertilizing supplies
+# The cake one is a new one (you can remove this comment)
+gui.SC2:stateCake=§fHave cake supplies
+#
+gui.SC2:stateShield=§fIs shield active
+gui.SC2:stateChunk=§fIs chunk loader active
+gui.SC2:stateInvisibility=§fIs invisibility core active
+gui.SC2:stateDrill=§fIs drill active
+gui.SC2:stateCage=§fIs auto pick up active
+gui.SC2:stateStorageFull=§fIs storage completely full
+gui.SC2:stateStorageEmpty=§fIs storage completely empty
+gui.SC2:statePassenger=§fHas passenger
+gui.SC2:stateAnimal=§fHas animal passenger
+gui.SC2:stateTameable=§fHas tameable passenger
+gui.SC2:stateBreedable=§fHas breedable passenger
+gui.SC2:stateHostile=§fHas hostile passenger
+gui.SC2:stateCreeper=§fHas creeper passenger
+gui.SC2:stateSkeleton=§fHas skeleton passenger
+gui.SC2:stateSpider=§fHas spider passenger
+gui.SC2:stateZombie=§fHas zombie passenger
+gui.SC2:stateZombiePigMan=§fHas zombie pig man passenger
+gui.SC2:stateSilverFish=§fHas silverfish passenger
+gui.SC2:stateBlaze=§fHas blaze passenger
+gui.SC2:stateBat=§fHas bat passenger
+gui.SC2:stateWitch=§fHas witch passenger
+gui.SC2:statePig=§fHas pig passenger
+gui.SC2:stateSheep=§fHas sheep passenger
+gui.SC2:stateCow=§fHas cow passenger
+gui.SC2:stateMooshroom=§fHas mooshroom passenger
+gui.SC2:stateChicken=§fHas chicken passenger
+gui.SC2:stateWolf=§fHas wolf passenger
+gui.SC2:stateSnowGolem=§fHas snow golem passenger
+gui.SC2:stateOcelot=§fHas ocelot passenger
+gui.SC2:stateVillager=§fHas villager passenger
+gui.SC2:statePlayer=§fHas player passenger
+gui.SC2:stateZombieVillager=§fHas zombie villager passenger
+gui.SC2:stateChild=§fHas child passenger
+gui.SC2:stateTamed=§fHas tamed passenger
+gui.SC2:statePowerRed=§fIs Power Observer[Red] active
+gui.SC2:statePowerBlue=§fIs Power Observer[Blue] active
+gui.SC2:statePowerGreen=§fIs Power Observer[Green] active
+gui.SC2:statePowerYellow=§fIs Power Observer[Yellow] active
+gui.SC2:stateTanksFull=§fAre the tanks completely full
+gui.SC2:stateTanksEmpty=§fAre the tanks completely empty
+gui.SC2:stateTankEmpty=§fIs there any completely empty tank

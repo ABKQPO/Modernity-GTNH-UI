@@ -1,0 +1,20 @@
+kubatech.gui.text.inventory=§fInventory
+kubatech.gui.text.status=§fStatus
+kubatech.gui.text.operating=§fOperating
+kubatech.gui.text.input=§fInput
+kubatech.gui.text.output=§fOutput
+kubatech.gui.text.eig.setup_mode=§fSetup mode
+kubatech.gui.text.eig.disabled=§fDisabled
+kubatech.gui.text.eig.enabled=§fEnabled
+kubatech.gui.text.eig.ic2_mode=§fIC2 mode
+kubatech.gui.text.eig.no_humidity_mode=§fNo Humidity mode
+kubatech.gui.text.mia.primary_mode=§fPrimary mode
+kubatech.gui.text.mia.normal=§fNormal
+kubatech.gui.text.mia.swarmer=§fSwarmer
+kubatech.gui.text.mia.secondary_mode=§fSecondary mode
+
+kubatech.gui.text.configuration=§fConfiguration
+
+kubatech.gui.text.tea_ultimate.tea=§fTea
+kubatech.gui.text.tea_ultimate.tea_limit=§fTea limit
+kubatech.gui.text.tea_acceptor.in=§fIN: %s/t

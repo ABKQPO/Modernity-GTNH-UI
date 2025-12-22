@@ -1,0 +1,25 @@
+# Entities
+entity.constructStaballoy.name=§fStaballoy Construct
+entity.sickBlaze.name=§fInfected Zealot
+
+entity.MiningCharge.name=§fMining Charge
+entity.throwablePotionSulfuric.name=§fFlask of Sulfuric Acid
+entity.throwablePotionHydrofluoric.name=§fFlask of Hydrofluoric Acid
+entity.toxinBall.name=§fToxin globule
+entity.plasmaBolt.name=§fPlasma
+entity.bigChickenFriendly.name=§fGiant Chicken
+
+entity.WiseVillager.name=§fWise Villager
+
+entity.Aboriginal.name=§fNative
+entity.miscutils.constructStaballoy.name=§fStaballoy Construct
+entity.miscutils.sickBlaze.name=§fInfected Zealot
+
+entity.batKing.name=§fBat King
+
+entity.miscutils.batKing.name=§fSpectral Bat
+entity.miscutils.bigChickenFriendly.name=§fGiant Chicken
+entity.miscutils.AusDingo.name=§fDingo
+entity.miscutils.AusBoar.name=§fWild Boar
+entity.miscutils.AusSpider.name=§fForest Spider
+entity.miscutils.AusOctopus.name=§fOctopus

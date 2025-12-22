@@ -1,0 +1,108 @@
+#This file is a translation file for Mobs Info
+
+#NEI
+mobsinfo.mobhandler.normal_drops=§fNormal drops
+mobsinfo.mobhandler.rare_drops=§fRare drops
+mobsinfo.mobhandler.additional_drops=§fAdditional drops
+mobsinfo.mobhandler.infernal_drops=§fInfernal drops
+mobsinfo.mobhandler.infernal_cannot=§fCannot spawn infernal
+mobsinfo.mobhandler.infernal_can=§6Can spawn infernal
+mobsinfo.mobhandler.infernal_always=§4Always spawns infernal
+mobsinfo.mobhandler.mod=§fMod: 
+mobsinfo.mobhandler.max_health=§fMax health: 
+mobsinfo.mobhandler.boss=§6§lBOSS
+mobsinfo.mobhandler.cannot_use_vial=§fCan't be in soul vial
+mobsinfo.mobhandler.chance=§fChance: %.2f%%
+mobsinfo.mobhandler.average_reminder=§fPlease remember that these are average drops.
+mobsinfo.mobhandler.lootable=§fLooting is applied
+mobsinfo.mobhandler.player_only=§4Hard player-only
+mobsinfo.mobhandler.peaceful_allowed=§2Allowed in peaceful
+mobsinfo.mobhandler.locked=§fTo unlock more information,
+mobsinfo.mobhandler.locked_1=§fyou have to kill the mob!
+mobsinfo.mobhandler.unlocked=§fYou have unlocked new mob information!
+mobsinfo.mobhandler.extended_info=§fPlease remember that drop chances and sizes are
+mobsinfo.mobhandler.extended_info_1=§faverage based on all possibilities
+mobsinfo.mobhandler.extended_info_2=§fThat means that 100% doesn't always mean that it will always drop!
+mobsinfo.mobhandler.extended_info_3=§fAs for example it could mean that there is
+mobsinfo.mobhandler.extended_info_4=§fequal chances to drop 0 or 1 or 2 items,
+mobsinfo.mobhandler.extended_info_5=§fwhich averages at 1 drop every time (100%)
+mobsinfo.mobhandler.spawns_everywhere=§fSpawns everywhere
+mobsinfo.mobhandler.spawns_in=§f§nSpawns in %d places...
+mobsinfo.mobhandler.spawns_not_in=§f§nSpawns everywhere but %d places...
+
+mobsinfo.villagertradeshandler.name=§fName: 
+mobsinfo.villagertradeshandler.mod=§fMod: 
+mobsinfo.villagertradeshandler.chance=§fChance: %.2f%%
+mobsinfo.villagertradeshandler.real_chance=§fChance per level up: %.2f%%
+
+mobsinfo.mobhandlerinfernal.title=§fInfernal Mobs - Drop Table
+mobsinfo.mobhandlerinfernal.format=§fFormat:
+mobsinfo.mobhandlerinfernal.format_1=§fDrop table name - x% (y%)
+mobsinfo.mobhandlerinfernal.format_2=§fx - Chance to get
+mobsinfo.mobhandlerinfernal.format_3=§fy - Chance to get when the mob
+mobsinfo.mobhandlerinfernal.format_4=§4Always spawns infernal
+mobsinfo.mobhandlerinfernal.elite=§fElite drops - %.2f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.ultra=§fUltra drops - %.3f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.inferno=§fInferno drops - %.3f%% (%.3f%%)
+mobsinfo.mobhandlerinfernal.tooltip_chance=§fTotal chance to get: %.4f%%
+mobsinfo.mobhandlerinfernal.tooltip_chance_always=§fTotal chance to get when always infernal: %.4f%%
+
+#Extras (compatibility)
+mobsinfo.extras.minecraft_slime=§6Drops only when the slime is at the smallest size
+mobsinfo.extras.minecraft_magma_cube=§6Drops only when the magma cube is NOT at the smallest size
+mobsinfo.extras.chance=§fChance: %.2f%%
+mobsinfo.extras.base_chance=§fBase chance: %.2f%%
+mobsinfo.extras.variable_chance=§fVariable chance
+mobsinfo.extras.drops_only_using=§6Drops only when killed using %s
+mobsinfo.extras.drops_only_in_dimension=§6Drops only in %s dimension
+mobsinfo.extras.drops_only_with_weakness=§6Drops only when the mob has weakness potion effect applied
+mobsinfo.extras.drops_only_with_weakness_2=§6Drops only when the mob has weakness potion (II or higher) effect applied
+mobsinfo.extras.drops_only_with_enchant=§6Drops only when %s enchantment is applied
+mobsinfo.extras.each_level_of_gives=§fEach level of %s gives %s
+mobsinfo.extras.or_biome=§fOr %.2f%% when on %s biome
+mobsinfo.extras.or_using=§for %.2f%% when killed using %s
+mobsinfo.extras.halloween_only=§fDrops only on Halloween
+mobsinfo.extras.yuletide_only=§fDrops only in Yuletide
+mobsinfo.extras.yuletide_day_only=§fDrops only on Yuletide day
+
+mobsinfo.extras.avaritia_skull_sword=§6Drops only when killed using Skull Sword and no other skulls were dropped
+mobsinfo.extras.draconic_evolution_mob_soul=BASED ON REAPER ENCHANT LEVEL - AND WEAPON |
+mobsinfo.extras.draconic_evolution_mob_soul_1=LEVEL | NONE | I | II | III | IV | V
+mobsinfo.extras.draconic_evolution_mob_soul_2=Any/None | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_3=Wyvern Sword/Bow | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_4=Draconic Sword/Bow | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_5=Draconic Staff of Power | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.powered_creeper=§6Drops only when Creeper is powered
+mobsinfo.extras.forbidden_magic_non_player=§6Drops only when killed by non player entity
+mobsinfo.extras.open_blocks_small_chance=§fChance: Small
+mobsinfo.extras.tinkers_construct_beheading=§fEach level of beheading on your weapon gives additional %.2f%%
+mobsinfo.extras.tinkers_construct_beheading_1=§fIf you are using a Cleaver, it gives another %.2f%%
+mobsinfo.extras.witchery_vampire_book=§6Drops only when player has Vampire book
+mobsinfo.extras.witchery_warewolf=§6Only when killer is a Warewolf
+mobsinfo.extras.bloodmagic_demon_shards=§6Drops only when spawned using Demon Portal or hit with dagger of sacrifice
+mobsinfo.extras.bloodmagic_demon_placer=§6Drops only when NOT spawned using Demon Portal and NOT hit with dagger of sacrifice
+mobsinfo.extras.etfuturum_powered_creeper=§6Drops only when killed by powered creeper
+mobsinfo.extras.etfuturum_wither_rose=§6Dropped or placed* only when killed by the Wither
+mobsinfo.extras.etfuturum_wither_rose_1=§f*Placed on the ground (in place of the mob) only if it is possible
+mobsinfo.extras.lycanites_mobs_or_on_yuletide_day=§fOr %.2f%% on Yuletide day
+
+#Spawn info
+mobsinfo.spawninfo.biome=§fBiome: 
+mobsinfo.spawninfo.structure=§fStructure: 
+mobsinfo.spawninfo.event=§fEvent: 
+
+#Commands
+mobsinfo.commandhandler.invalid=§cInvalid use ! The proper use of this command is /%s
+mobsinfo.commandhandler.cant_find=§cCan't find command option %s
+mobsinfo.commandhandler.generic_help=§cYou can also use "/mobsinfo help" to get possible commands
+mobsinfo.commandhandler.usage=<option>
+mobsinfo.command.help.possible_commands=Possible commands: 
+mobsinfo.command.help.usage=- Shows all possible commands
+mobsinfo.command.config.invalid_option=§cInvalid option ! Possible options: reload
+mobsinfo.command.config.success=§aConfig reloaded successfully !
+mobsinfo.command.config.usage=<option>
+mobsinfo.command.hidden.usage=<player> <unlock/lock/reset/unlockall> [mob name]
+mobsinfo.command.hidden.invalid_mob=§cInvalid mob name!
+mobsinfo.command.hidden.lock_error=§cMob isn't unlocked for the player or the name is invalid!
+mobsinfo.command.hidden.success=§aSuccess!
+mobsinfo.command.hidden.invalid=§cInvalid options! The correct usage is: %s

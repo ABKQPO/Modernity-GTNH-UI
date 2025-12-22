@@ -1,0 +1,30 @@
+tile.gravity.name=§fArtificial Gravity Generator
+tile.machines1.0.name=§fRadioisotope Generator
+tile.isotopeGeneratorBasic.name=§fRadioisotope Generator
+tile.isotopeGeneratorAdvanced.name=§fAdvanced Radioisotope Generator
+
+tile.hydroponics.name=§fHydroponics Unit
+tile.hydroponics.plant=§fPlant Seeds
+tile.hydroponics.harvest=§fHarvest
+tile.hydroponics.fertilize=§fFertilize
+tile.hydroponics.noplant=§fNo Plant
+tile.hydroponics.plantstatus=§fPlant status
+
+tile.aluChest.name=§fAluminum Chest
+tile.steelChest.name=§fSteel Chest
+
+gui.message.mothership.status.name=§fStatus
+tile.shuttleDock.name=§fShuttle Dock
+
+gui.checkbox.show_visual_guide=§fShow Area
+gui.checkbox.invert_force=§fUpwards
+gui.message.force.strength=§fStrength
+gui.message.energy_usage=§fEnergy Usage
+
+entity.robotVillager.name=§fRobot Villager
+entity.porcodon.name=§fPorcodon
+entity.sentryRobot.name=§fSentry
+entity.osirisBoss.name=U§fndead Pharaoh
+entity.alienVillagerAR.name=§fGastropod Villager
+entity.alienBug.name=§fPincer Bug
+entity.GalacticraftAmunRa.Shuttle.name=§fShuttle Rocket

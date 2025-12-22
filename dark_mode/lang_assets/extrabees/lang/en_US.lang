@@ -1,0 +1,45 @@
+extrabees.machine.alveay.hatchery=§f§fHatchery
+extrabees.machine.alveay.stimulator=§f§fElectrical Stimulator
+extrabees.machine.alveay.frame=§f§fFrame Housing
+extrabees.machine.alveay.mutator=§f§fMutator
+
+extrabees.machine.alveay.mutator.mutagens=§fPossible Mutagens:
+
+
+extrabees.gui.database=§fDatabase
+extrabees.gui.database.tab.species.overview=§fOverview
+extrabees.gui.database.tab.species.classification=§fClassification
+
+extrabees.gui.database.tab.species.genome=§fGenome
+extrabees.gui.database.tab.species.genome.speed=§fSpeed:
+extrabees.gui.database.tab.species.genome.lifespan=§fLifespan:
+extrabees.gui.database.tab.species.genome.fertility=§fFertility:
+extrabees.gui.database.tab.species.genome.flowering=§fFlowering:
+extrabees.gui.database.tab.species.genome.territory=§fTerritory:
+extrabees.gui.database.tab.species.genome.behavior=§fBehavior:
+extrabees.gui.database.tab.species.genome.sunlight=§fSunlight:
+extrabees.gui.database.tab.species.genome.rain=§fRain:
+extrabees.gui.database.tab.species.genome.flower=§fFlower:
+extrabees.gui.database.tab.species.genome.effect=§fEffect:
+extrabees.gui.database.tab.species.genome.tolerated=§fTolerated
+extrabees.gui.database.tab.species.genome.daytime=§fDaytime
+extrabees.gui.database.tab.species.genome.nighttime=§fNighttime
+extrabees.gui.database.tab.species.genome.allDay=§fAll Day
+extrabees.gui.database.tab.species.genome.children=§f%d children
+extrabees.gui.database.tab.species.genome.notNeeded=§fNot Needed
+extrabees.gui.database.tab.species.genome.required=§fRequired
+
+extrabees.gui.database.tab.species.products=§fProducts
+extrabees.gui.database.tab.species.products.everyHours=§fEvery %s hours
+extrabees.gui.database.tab.species.products.everyMins=§fEvery %s min.
+extrabees.gui.database.tab.species.products.everySecs=§fEvery %s sec.
+
+extrabees.gui.database.tab.species.climate=§fClimate
+extrabees.gui.database.tab.species.biomes=§fBiomes
+extrabees.gui.database.tab.species.specialties=§fSpecialties
+extrabees.gui.database.tab.species.resultant=§fResultant Mutations
+extrabees.gui.database.tab.species.further=§fFurther Mutations
+
+extrabees.gui.database.tab.branches.overview=§fOverview
+extrabees.gui.database.tab.branches.species=§fSpecies
+extrabees.gui.database.tab.breeder=§fBreeder

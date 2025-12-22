@@ -1,0 +1,30 @@
+oc:gui.Assembler.Collect=§fCollect output
+oc:gui.Assembler.Complexity=§fComplexity: %s/%s
+oc:gui.Assembler.InsertCase=§fInsert a base part
+oc:gui.Assembler.InsertCPU=§fInsert a CPU
+oc:gui.Assembler.InsertRAM=§fInsert some RAM
+oc:gui.Assembler.Progress=§fProgress: %s%% (%s)
+
+oc:gui.Rack.Back=§fBack
+oc:gui.Rack.Bottom=§fBottom
+oc:gui.Rack.Left=§fLeft
+oc:gui.Rack.None=§fNone
+oc:gui.Rack.Right=§fRight
+oc:gui.Rack.Enabled=§fEnabled
+oc:gui.Rack.Disabled=§fDisabled
+oc:gui.Rack.Top=§fTop
+
+# Containers
+oc:container.AccessPoint=§fAccess Point
+oc:container.Adapter=§fAdapter
+oc:container.Case=§fComputer
+oc:container.Charger=§fCharger
+oc:container.Disassembler=§fDisassembler
+oc:container.DiskDrive=§fDisk Drive
+oc:container.Printer=§fPrinter
+oc:container.Raid=§fRaid
+oc:container.Relay=§fRelay
+oc:container.Server=§fServer
+oc:container.Rack=§fRack
+oc:container.Switch=§fSwitch
+oc:container.TabletWrapper=§fTablet

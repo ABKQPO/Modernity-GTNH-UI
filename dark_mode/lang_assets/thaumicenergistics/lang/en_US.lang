@@ -1,0 +1,19 @@
+﻿#GUI
+thaumicenergistics.gui.arcane.crafting.terminal.title=§fArcane Terminal
+thaumicenergistics.gui.essentia.cell.title=§fEssentia Cell
+thaumicenergistics.gui.selected.amount=§fAmount
+thaumicenergistics.gui.selected.aspect=§fAspect
+thaumicenergistics.gui.digivis.source.name=§fDigiVis Source
+thaumicenergistics.gui.essentia.cell.workbench.title=§fEssentia Cell Workbench
+thaumicenergistics.gui.arcane.assembler.title=§fArcane Assembler
+thaumicenergistics.gui.vibration.chamber.stored=Stored:§f %d %s
+thaumicenergistics.gui.vibration.chamber.processing=§fProcessing: %s
+
+thaumicenergistics.aeparts.essentia.terminal.name=§fEssentia Terminal
+thaumicenergistics.item.wireless.essentia.terminal.name=§fWireless Essentia Terminal
+thaumicenergistics.aeparts.essentia.StorageBus.name=§fEssentia Storage Bus
+thaumicenergistics.aeparts.essentia.levelemitter.name=§fEssentia Level Emitter
+thaumicenergistics.aeparts.essentia.ImportBus.name=§fEssentia Import Bus
+thaumicenergistics.aeparts.essentia.ExportBus.name=§fEssentia Export Bus
+thaumicenergistics.block.knowledge.inscriber.name=§fKnowledge Inscriber
+thaumicenergistics.block.distillation.encoder.name=§fDistillation Pattern Encoder

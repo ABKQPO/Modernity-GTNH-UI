@@ -1,0 +1,7 @@
+item.advanced_memory_card.name.gui=§fAdvanced Memory Card
+gui.advanced_memory_card.name=§fName: %s
+item.advanced_memory_card.selected=§fFrequency:
+gui.advanced_memory_card.extra.channel=§fChannels used: %s
+gui.advanced_memory_card.p2p_status.type=§fType: %s - %s
+gui.advanced_memory_card.p2p_status.input=§fInput
+gui.advanced_memory_card.p2p_status.output=§fOutput

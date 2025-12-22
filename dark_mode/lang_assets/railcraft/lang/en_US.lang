@@ -1,0 +1,96 @@
+﻿railcraft.gui.tank.iron=§fIron Tank
+railcraft.gui.tank.steel=§fSteel Tank
+railcraft.gui.tank.water=§fWater Tank
+railcraft.gui.steam.boiler=§fSteam Boiler
+railcraft.gui.blast.furnace=§fAdvanced Coke Oven
+railcraft.gui.coke.oven=§fCoke Oven
+railcraft.gui.steam.oven=§fSteam Oven
+railcraft.gui.turbine.output=§fOutput: @d%%
+railcraft.gui.turbine.rotor=§fRotor:
+railcraft.gui.turbine=§fSteam Turbine
+
+railcraft.gui.tank.aluminium=§fAluminium Tank
+railcraft.gui.tank.stainless=§fStainless Steel Tank
+railcraft.gui.tank.titanium=§fTitanium Tank
+railcraft.gui.tank.tungstensteel=T§fungstensteel Tank
+railcraft.gui.tank.palladium=§frPalladium Tank
+
+railcraft.gui.ic2.energy.rate=§fRate: @d EU
+
+railcraft.gui.cart.tnt.fuse=§fFuse
+railcraft.gui.cart.track.relayer.pattern=§fPattern
+railcraft.gui.cart.track.relayer.stock=§fStock
+railcraft.gui.cart.undercutter.pattern=§fPatterns
+railcraft.gui.cart.undercutter.sides=§fSides
+railcraft.gui.cart.undercutter.stock=§fStock
+railcraft.gui.cart.undercutter.under=§fUnder
+
+railcraft.gui.feed.station.feed=§fFeed
+railcraft.gui.filter=§fFilter
+railcraft.gui.filters.carts=§fCarts
+railcraft.gui.filters=§fFilters
+railcraft.gui.item.loader.buffer=§fBuffer
+
+tile.railcraft.machine.alpha.rolling.machine.name=§fRolling Machine
+tile.railcraft.machine.alpha.feed.station.name=§fFeed Station
+tile.railcraft.machine.alpha.trade.station.name=§fTrade Station
+tile.railcraft.machine.alpha.anchor.admin.name=§fSAdmin Anchor
+tile.railcraft.machine.alpha.anchor.passive.name=§fPassive Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§fSPersonal Anchor
+tile.railcraft.machine.alpha.anchor.world.name=§fWorld Anchor
+railcraft.gui.anchor.fuel.remaining=§f@.2f hours
+railcraft.gui.anchor.fuel=§fEnder Pearls
+
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§fHigh Pressure Boiler Tank
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§fLow Pressure Boiler Tank
+tile.railcraft.machine.beta.engine.steam.hobby.name=§fHobbyist's Steam Engine
+tile.railcraft.machine.beta.engine.steam.low.name=§fCommercial Steam Engine
+tile.railcraft.machine.beta.engine.steam.high.name=§fIndustrial Steam Engine
+tile.railcraft.machine.beta.chest.void.name=§fVoid Chest
+tile.railcraft.machine.beta.chest.metals.name=§fMetals Chest
+
+railcraft.gui.box.aspect.action=§fEmit Redstone on Aspect
+
+railcraft.gui.detector.item.analog=§fAnalog
+railcraft.gui.detector.item.anything=§fAnything
+railcraft.gui.detector.item.at_least=§fAt Least
+railcraft.gui.detector.item.at_most=§fAt Most
+railcraft.gui.detector.item.empty=§fEmpty
+railcraft.gui.detector.item.exactly=§fExactly
+railcraft.gui.detector.item.filtered=§fFiltered
+railcraft.gui.detector.item.full=§fFull
+railcraft.gui.detector.item.greater_than=§fGreater Than
+railcraft.gui.detector.item.less_than=§fLess Than
+railcraft.gui.detector.item.not_empty=§fNot Empty
+railcraft.gui.detector.loco.primary=§fPrimary Color
+railcraft.gui.detector.loco.secondary=§fSecondary Color
+railcraft.gui.detector.tank.tip.analog=§fEmit Analog Redstone\n based on amount in tank
+railcraft.gui.detector.tank.tip.empty=§fMatch empty tanks
+railcraft.gui.detector.tank.tip.full=§fMatch full tanks
+railcraft.gui.detector.tank.tip.half=§fMatch more than half full tanks
+railcraft.gui.detector.tank.tip.less.than.full=§fMatch less than full tanks
+railcraft.gui.detector.tank.tip.less.than.half=§fMatch less than half full tanks
+railcraft.gui.detector.tank.tip.less.than.most=§fMatch less than 3/4th full tanks
+railcraft.gui.detector.tank.tip.less.than.quarter=§fMatch less than quarter full tanks
+railcraft.gui.detector.tank.tip.most=§fMatch more than 3/4th full tanks
+railcraft.gui.detector.tank.tip.not.empty=§fMatch non-empty tanks
+railcraft.gui.detector.tank.tip.quarter=§fMatch more than quarter full tanks
+railcraft.gui.detector.tank.tip.void=§fMatch any amount
+railcraft.gui.detector.train.size=§fTrain Size =§f @d
+railcraft.gui.detector.villager.any=§fAny
+railcraft.gui.detector.villager.equals=§fEquals
+railcraft.gui.detector.villager.none=§fNone
+railcraft.gui.detector.villager.not=§fNot
+
+tile.railcraft.machine.gamma.loader.item.name=§fItem Loader
+tile.railcraft.machine.gamma.unloader.item.name=§fItem Unloader
+tile.railcraft.machine.gamma.loader.item.advanced.name=§fAdv. Item Loader
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§fAdv. Item Unloader
+tile.railcraft.machine.gamma.loader.liquid.name=§fFluid Loader
+tile.railcraft.machine.gamma.unloader.liquid.name=§fFluid Unloader
+tile.railcraft.machine.gamma.loader.energy.name=§fEnergy Loader
+tile.railcraft.machine.gamma.unloader.energy.name=§fEnergy Unloader
+tile.railcraft.machine.gamma.loader.rf.name=§fRedstone Flux Loader
+tile.railcraft.machine.gamma.unloader.rf.name=§fRedstone Flux Unloader
+tile.railcraft.machine.gamma.dispenser.cart.name=§fCart Dispenser
+tile.railcraft.machine.gamma.dispenser.train.name=§fTrain Dispenser

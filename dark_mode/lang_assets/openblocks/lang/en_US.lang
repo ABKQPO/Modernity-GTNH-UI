@@ -1,0 +1,29 @@
+openblocks.gui.blocks=§fBlocks
+openblocks.gui.items=§fItems
+openblocks.gui.misc=§fMiscellanea
+openblocks.gui.changelogs=§fChangelogs
+
+openblocks.gui.features=§fFeatures
+openblocks.gui.bugfixes=§fBugfixes
+openblocks.gui.tweaks=§fTweaks
+
+openblocks.gui.luggage=§fLuggage
+openblocks.gui.sprinkler=§fSprinkler
+openblocks.gui.vacuumhopper=§fVacuum Hopper
+openblocks.gui.bigbutton=§fBig Button
+openblocks.gui.xpbottler=§fXP Bottler
+openblocks.gui.autoanvil=§fAuto Anvil
+openblocks.gui.autoeject=§fAuto eject
+openblocks.gui.autoextract=§fAuto extract
+openblocks.gui.autodrink=§fAuto drink
+openblocks.gui.autoenchantmenttable=§fAuto Enchantment Table
+openblocks.gui.donationstation=§fDonation Station
+openblocks.gui.itemdropper=§fItem Dropper
+openblocks.gui.blockplacer=§fBlock Placer
+openblocks.gui.paintmixer=§fPaint Mixer
+openblocks.gui.drawingtable=§fDrawing Table
+openblocks.gui.digitalfuse=§fDigital Fuse
+openblocks.gui.xp_outputs=§fXP Outputs
+openblocks.gui.item_outputs=§fItem Outputs
+openblocks.gui.max_level=§fMax. Level: %d
+openblocks.gui.save_folder=§fSave folder

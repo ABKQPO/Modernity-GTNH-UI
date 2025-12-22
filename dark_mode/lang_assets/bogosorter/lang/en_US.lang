@@ -1,0 +1,72 @@
+bogosort.gui.title=§f§fSort Config
+bogosort.gui.tab.general.name=§fGeneral
+bogosort.gui.tab.profiles.name=§fProfiles
+bogosort.gui.tab.item_sort_rules.name=§fItem sort rules
+bogosort.gui.tab.nbt_sort_rules.name=§fNBT sort rules
+bogosort.gui.available_sort_rules=§fAvailable Sort-Rules
+bogosort.gui.configured_sort_rules=§fConfigured Sort-Rules
+bogosort.gui.enable_hotbarSort=§fEnable hotbar sorting
+bogosort.gui.enable_noguiSort=§fEnable sorting via keybind while no GUI is open
+bogosort.gui.enable_refill=§fEnable auto hotbar refill
+bogosort.gui.refill_comment=§fQuark is installed. If this option is disabled, theirs might still be enabled. You can find the config at 'Management' -> 'Automatic Tool Restock'.
+bogosort.gui.refill_threshold=§fAuto refill damage threshold
+bogosort.gui.ascending=§fAscending
+bogosort.gui.descending=§fDescending
+bogosort.gui.hotbar_scrolling=§fEnable hotbar column scrolling
+bogosort.gui.hotbar_scrolling.tooltip=§fScroll though inventory column by holding ALT
+bogosort.gui.enabled=§fEnabled
+bogosort.gui.button.enabled=§fEnable sort and config buttons in GUI's
+bogosort.gui.dropoff_enable=§fEnable Dropoff
+bogosort.gui.button.color=§fBackground color of sort buttons
+bogosort.gui.dropoffbutton_enable=§fShow Dropoff Button in Inventory
+bogosort.gui.dropoff_render=§fShow Dropoff Targets
+bogosort.gui.dropoff_chatmessage=§fShow Dropoff Chat Message
+bogosort.gui.usageticker_enable=§fEnable Usage Ticker
+bogosort.gui.usageticker_mainhand=§fEnable Usage Ticker Mainhand
+bogosort.gui.usageticker_offhand=§fEnable Usage Ticker Offhand
+bogosort.gui.usageticker_armor=§fEnable Usage Ticker Armor
+
+
+bogosort.command.config_relaod.success=§fReloaded sorting config
+
+bogosort.sortrules.item.mod.name=§fMod name
+bogosort.sortrules.item.id.name=§fRegistry name
+bogosort.sortrules.item.meta.name=§fMeta value
+bogosort.sortrules.item.registry_order.name=§fRegistry Order
+bogosort.sortrules.item.display_name.name=§fDisplay Name
+bogosort.sortrules.item.nbt_size.name=§fNBT tag size
+bogosort.sortrules.item.nbt_has.name=§fHas NBT tag
+bogosort.sortrules.item.nbt_rules.name=§fNBT rules
+bogosort.sortrules.item.nbt_all_values.name=§fAll NBT values
+bogosort.sortrules.item.count.name=§fStack size
+bogosort.sortrules.item.ore_dict.name=§fOre dict
+bogosort.sortrules.item.material.name=§fMaterial
+bogosort.sortrules.item.ore_prefix.name=§fOre prefix
+bogosort.sortrules.item.burn_time.name=§fBurn Time
+bogosort.sortrules.item.block_type.name=§fBlock Type
+bogosort.sortrules.item.hunger.name=§fHunger
+bogosort.sortrules.item.saturation.name=§fSaturation
+bogosort.sortrules.item.emc.name=§fEMC Value
+bogosort.sortrules.item.color.name=§fColor
+
+bogosort.sortrules.item.mod.description=§fSorts items alphabetically by its mod name
+bogosort.sortrules.item.id.description=§fSorts items alphabetically by its registry name (without mod)
+bogosort.sortrules.item.meta.description=§fSorts items numerically by its meta value
+bogosort.sortrules.item.registry_order.description=§fSorts items numerically by its registry order
+bogosort.sortrules.item.display_name.description=§fSorts items alphabetically by its displayed name
+bogosort.sortrules.item.nbt_size.description=§fSorts items numerically by its meta value NBT tag size
+bogosort.sortrules.item.nbt_has.description=§fSorts items based on if or if not that have a NBT tag
+bogosort.sortrules.item.nbt_rules.description=§fSorts items based on configured NBT sort rules
+bogosort.sortrules.item.nbt_all_values.description=§fTries to sort items by comparing all nbt tags and subtags
+bogosort.sortrules.item.count.description=§fSorts items numerically by its stack size
+bogosort.sortrules.item.ore_dict.description=§fSorts items numerically and/or alphabetically by its ore dicts
+bogosort.sortrules.item.material.description=§fSorts items alphabetically by its material name (f.e. Iron, Gold, Copper...)
+bogosort.sortrules.item.ore_prefix.description=§fSorts items by their ore prefix (f.e. ingot, nugget, plate, gear...)
+bogosort.sortrules.item.burn_time.description=§fSorts items numerically by its fuel burn time
+bogosort.sortrules.item.block_type.description=§fSorts items based on what type of block the item is (f.e. full block, slab, stairs ...)
+bogosort.sortrules.item.hunger.description=§fSorts items numerically by its hunger refill value
+bogosort.sortrules.item.saturation.description=§fSorts items numerically by its saturation refill value
+bogosort.sortrules.item.emc.description=§fSorts items numerically by its EMC value
+bogosort.sortrules.item.color.description=§fSorts items numerically by its color hue value
+
+

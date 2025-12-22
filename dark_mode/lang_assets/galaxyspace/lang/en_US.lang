@@ -1,0 +1,26 @@
+tile.SolarWindPanel.name=§fSolar Wind Panel
+tile.StorageModuleT3.0.name=§fAdvanced Energy Cluster
+tile.StorageModuleT3_4.name=§fAdvanced Energy Cluster
+tile.OxygenStorageModuleT2.0.name=§fAdvanced Oxygen Module
+tile.OxygenStorageModuleT2_4.name=§fAdvanced Oxygen Module
+tile.SolarPanel.name=§fHybrid Solar Panel
+
+entity.GalacticraftCore.Crawler.name=§fCrawler
+entity.GalacticraftCore.EvolvedBlaze.name=§fEvolved Blaze
+entity.GalacticraftCore.EvolvedBossBlaze.name=§fEvolved Blaze Boss
+entity.GalacticraftCore.EvolvedBossGhast.name=§fEvolved Ghast Boss
+entity.GalacticraftCore.EvolvedBossSlime.name=§fEvolved Slime Boss
+entity.GalacticraftCore.EvolvedBossWolf.name=§fEvolved Wolf Boss
+entity.GalacticraftCore.EvolvedColdBlaze.name=§fEvolved Cold Blaze
+entity.GalacticraftCore.EvolvedCrystalBoss.name=§fEvolved Crystal Boss
+entity.GalacticraftCore.EvolvedEnderman.name=§fEvolved Enderman
+entity.GalacticraftCore.EvolvedFireCreeper.name=§fEvolved Fire Creeper
+entity.GalacticraftCore.EvolvedFireSkeleton.name=§fEvolved Fire Skeleton
+entity.GalacticraftCore.EvolvedFireSpider.name=§fEvolved Fire Spider
+entity.GalacticraftCore.EvolvedGuardian.name=§fEvolved Water Guardian
+entity.GalacticraftCore.SpaceshipT4.name=§fTier 4 Rocket
+entity.GalacticraftCore.SpaceshipT5.name=§fTier 5 Rocket
+entity.GalacticraftCore.SpaceshipT6.name=§fTier 6 Rocket
+entity.GalacticraftCore.SpaceshipT7.name=§fTier 7 Rocket
+entity.GalacticraftCore.SpaceshipT8.name=§fTier 8 Rocket
+entity.GalacticraftCore.Tentacles.name=§fNature Tentacle

@@ -1,0 +1,11 @@
+# GUI
+gui.nutrition:nutrition_title=§fNutrition
+gui.nutrition:close=§fClose
+gui.nutrition:updating=§fUpdating...
+
+# Nutrients
+nutrient.nutrition:grain=§fGrain
+nutrient.nutrition:fruit=§fFruit
+nutrient.nutrition:vegetable=§fVegetable
+nutrient.nutrition:protein=§fProtein
+nutrient.nutrition:dairy=§fDairy

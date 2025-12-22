@@ -1,0 +1,14 @@
+tile.gendustry.mutagen_producer.name=§fMutagen Producer
+tile.gendustry.mutatron.name=§fMutatron
+tile.gendustry.mutatron_adv.name=§fAdvanced Mutatron
+tile.gendustry.apiary.name=§fIndustrial Apiary
+tile.gendustry.imprinter.name=§fGenetic Imprinter
+tile.gendustry.sampler.name=§fGenetic Sampler
+tile.gendustry.extractor.name=§fDNA Extractor
+tile.gendustry.liquifier.name=§fProtein Liquifier
+tile.gendustry.replicator.name=§fGenetic Replicator
+tile.gendustry.transposer.name=§fGenetic Transposer
+
+gendustry.label.select=§fSelect:
+
+

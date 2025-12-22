@@ -1,0 +1,139 @@
+# GUI
+
+gui.itemsink.Yes=§fYes
+gui.itemsink.No=§fNo
+gui.itemsink.Inventory=§fInventory
+gui.itemsink.Defaultroute=§fDefault route
+gui.itemsink.IgnoreData=§fIgnore Data
+gui.itemsink.IgnoreNBT=§fIgnore NBT
+gui.itemsink.import=§fImport
+
+gui.crafting.Inputs=§fInputs
+gui.crafting.Inventory=§fInventory
+gui.crafting.Import=§fImport
+gui.crafting.Open=§fOpen
+gui.crafting.Output=§fOutput
+gui.crafting.Satellite=§fSatellite
+gui.crafting.Off=§fOff
+gui.crafting.Priority=§fPriority
+gui.crafting.Extra=§fExtra
+gui.crafting.OreDict=§fOreDict
+gui.crafting.IgnDamage=§fIgnDamage
+gui.crafting.IgnNBT=§fIgnNBT
+gui.crafting.OrePrefix=§fOrePrefix
+gui.crafting.Include=§fInclude
+gui.crafting.Exclude=§fExclude
+
+gui.firewall.Blocked=§fBlocked
+gui.firewall.Allowed=§fAllowed
+gui.firewall.Firewall=§fFirewall
+gui.firewall.Filter=§fFilter
+gui.firewall.Filtereditemsare=§fFiltered items are
+gui.firewall.Providing=§fProviding
+gui.firewall.Crafting=§fCrafting
+gui.firewall.Sorting=§fSorting
+gui.firewall.Powerflow=§fPowerflow
+
+gui.fluidbasic.Empty=§fEmpty
+
+gui.fluidsuppliermk2.Fluid=§fFluid
+gui.fluidsuppliermk2.partial=§fPartial
+gui.fluidsuppliermk2.partial.tip=§fAllows the network to partially fulfill the required space
+gui.fluidsuppliermk2.partial.no=§fNo
+gui.fluidsuppliermk2.partial.no.tip=§f§eNo§f: Fluid is pulled only if network has enough resources to fill the required space completely
+gui.fluidsuppliermk2.partial.yes=§fYes
+gui.fluidsuppliermk2.partial.yes.tip=§f§eYes§f: Fluid is pulled even if network doesn't have enough resources to fill the required space completely
+gui.fluidsuppliermk2.refill_if_depleted=§fRefill on depletion at least
+gui.fluidsuppliermk2.refill_if_depleted.tip=§fAllows to request fluid only if the space is emptied by at least §e%s§r mB
+gui.fluidsuppliermk2.refill_if_depleted.tip.zero=§f§fSetting to §e0§f disables the feature
+gui.fluidsuppliermk2.TargetInv=§fFluid to keep stocked
+
+gui.fluidsupplier.TargetInv=§fFluids to keep stocked
+gui.fluidsupplier.Inventory=§fInventory
+gui.fluidsupplier.Partialrequests=§fPartial requests
+gui.fluidsupplier.Yes=§fYes
+gui.fluidsupplier.No=§fNo
+
+gui.invsyscon.Refresh=§fRefresh
+gui.invsyscon.Save=§fSave
+gui.invsyscon.InventorySystemConnector=§fInventory System Connector
+gui.invsyscon.ConnectionCard=§fConnection Card
+gui.invsyscon.Waitingfor=§fWaiting for
+gui.invsyscon.Resistance=§fResistance
+
+gui.powerjunction.LogisticsPowerJunction=§fLogistics Power Junction
+gui.powerjunction.StoredEnergy=§fStored Energy
+
+gui.powerprovider.LogisticsMJPowerProvider=§fLogistics MJ Power Provider
+gui.powerprovider.LogisticsEUPowerProvider=§fLogistics EU Power Provider
+gui.powerprovider.LogisticsRFPowerProvider=§fLogistics RF Power Provider
+gui.powerprovider.StoredEnergy=§fStored Energy
+
+gui.providerpipe.TargetInv=§fItems to provide (or empty for all)
+gui.providerpipe.Inventory=§fInventory
+gui.providerpipe.Mode=§fMode
+gui.providerpipe.Exclude=§fExclude
+gui.providerpipe.Include=§fInclude
+gui.providerpipe.Switch=§fSwitch
+
+gui.routingstats.Session=§fSession
+gui.routingstats.Lifetime=§fLifetime
+gui.routingstats.Sent=§fSent
+gui.routingstats.Recieved=§fRecieved
+gui.routingstats.Relayed=§fRelayed
+gui.routingstats.RoutingTableSize=§fRoutingTableSize
+gui.routingstats.exit=§fPress <ESC> to exit
+
+gui.satellite.SatelliteID=§fSatellite ID
+
+gui.securitystation.Open=§fOpen
+gui.securitystation.EditTable=§fEdit Table
+gui.securitystation.Authorize=§fAuthorize
+gui.securitystation.Deauthorize=§fDeauthorize
+gui.securitystation.SecurityStation=§fSecurity Station
+gui.securitystation.allowCCAccess=§fAllow ComputerCraft Access
+gui.securitystation.excludeIDs=§fExcluded ComputerCraft IDs
+gui.securitystation.pipeRemove=§fAllow automated Pipe remove
+gui.securitystation.Player=§fPlayer
+gui.securitystation.SecurityCards=§fSecurity Cards
+gui.securitystation.Inventory=§fInventory
+gui.securitystation.popup.ccAccess.Remove=§fRemove
+gui.securitystation.popup.ccAccess.Add=§fAdd
+gui.securitystation.popup.player.Close=§fClose
+gui.securitystation.popup.player.Player=§fPlayer
+gui.securitystation.popup.player.ConfigureSettings=§fConfigure Settings
+gui.securitystation.popup.player.ActiveRequesting=§fActive Requesting
+gui.securitystation.popup.player.UpgradePipes=§fUpgrade Pipes
+gui.securitystation.popup.player.CheckNetwork=§fCheck Network
+gui.securitystation.popup.player.RemovePipes=§fRemove Pipes
+
+gui.supplierpipe.TargetInv=§fItems to keep stocked
+gui.supplierpipe.TargetInvPattern=§fItems to keep in the specified slots
+gui.supplierpipe.Inventory=§fInventory
+gui.supplierpipe.RequestMode=§fRequest Mode
+
+gui.upgrademanager.Upgrades=§fUpgrades
+gui.upgrademanager.Inventory=§fInventory
+gui.upgrademanager.SneakyUpgrades=§fSneaky Upgrades
+
+gui.pipecontroller.upgrade=§fUpgrades
+gui.pipecontroller.inventory=§fInventory
+gui.pipecontroller.sneakyUpgrades=§fSneaky Upgrades
+gui.pipecontroller.security=§fSecurity
+gui.pipecontroller.Session=§fSession
+gui.pipecontroller.Lifetime=§fLifetime
+gui.pipecontroller.Sent=§fSent
+gui.pipecontroller.Recieved=§fRecieved
+gui.pipecontroller.Relayed=§fRelayed
+gui.pipecontroller.RoutingTableSize=§fRoutingTableSize
+
+gui.networkstatistics.amount=§fTrack amount
+gui.networkstatistics.crafting=§fView active crafting tasks
+gui.networkstatistics.gettasks=§fAcquire tasks
+gui.networkstatistics.add.alreadytracked=§fThis item type is already tracked
+
+gui.settings.pipenewrenderer=§fUse New Renderer
+gui.settings.pipevborenderer=§fUse VBO Renderer (experimental)
+gui.settings.pipefallbackrenderer=§fUse Fallback Renderer
+gui.settings.piperenderdistance=§fMax. Distance for new Renderer
+gui.settings.pipecontentrenderdistance=§fMax. Distance for Pipe Content

@@ -1,0 +1,7 @@
+tooltip.tile.radhatch.3.name=§fSievert:
+tooltip.tile.radhatch.4.name=§fMass:
+
+BW.NEI.display.radhatch.0=§fSievert: %s Sv
+BW.NEI.display.radhatch.1=§fMass: %s kg
+BW.NEI.display.radhatch.2=§fTime: %s s
+
