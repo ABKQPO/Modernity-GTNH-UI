@@ -23,3 +23,7 @@ entity.miscutils.AusDingo.name=§fDingo
 entity.miscutils.AusBoar.name=§fWild Boar
 entity.miscutils.AusSpider.name=§fForest Spider
 entity.miscutils.AusOctopus.name=§fOctopus
+
+# Containers
+container.VolumetricFlaskSetter=§fVolumetric Flask Configurator
+container.pestkiller=§fPest Killer
