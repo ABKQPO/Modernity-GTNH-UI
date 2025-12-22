@@ -1,8 +1,11 @@
-import os
+import os, shutil
 from PIL import Image
 
-INPUT_DIR = "assets"
+ASSETS_INPUT_DIR = "assets"
 OUTPUT_DIR = "outputs"
+ASSETS_OUTPUT_DIR = "outputs/assets"
+LANG_DIR = "dark_mode/lang_assets"
+METAFILES = ["pack.mcmeta", "dark_mode/pack.png"]
 
 COLOR_MAP = {
     "413f54": "0a090e",
@@ -36,18 +39,32 @@ def process_image(file_path, output_path):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     img.save(output_path, "PNG")
 
-
-def main():
-    for root, _, files in os.walk(INPUT_DIR):
+def process_for_all_images():
+    for root, _, files in os.walk(ASSETS_INPUT_DIR):
         for filename in files:
             if filename.lower().endswith(".png"):
                 input_path = os.path.join(root, filename)
 
-                rel_path = os.path.relpath(input_path, INPUT_DIR)
-                output_path = os.path.join(OUTPUT_DIR, rel_path)
+                rel_path = os.path.relpath(input_path, ASSETS_INPUT_DIR)
+                output_path = os.path.join(ASSETS_OUTPUT_DIR, rel_path)
 
                 process_image(input_path, output_path)
                 print(f"Processed {rel_path}")
+
+
+def main():
+    if os.path.isdir(ASSETS_OUTPUT_DIR):
+        print(f"{ASSETS_OUTPUT_DIR} exists, skipping processing step...")
+    else:
+        process_for_all_images()
+
+    print(f"Copying {LANG_DIR} to {ASSETS_OUTPUT_DIR}...")
+    shutil.copytree(LANG_DIR, ASSETS_OUTPUT_DIR, dirs_exist_ok=True)
+   
+    
+    for file in METAFILES:
+        print(f"Copying {file} to {OUTPUT_DIR}")
+        shutil.copy2(file, OUTPUT_DIR)
 
 
 if __name__ == "__main__":
