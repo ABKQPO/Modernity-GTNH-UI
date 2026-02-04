@@ -13,7 +13,14 @@ COLOR_MAP = {
     "696d88": "14151d",
     "878fa5": "1d2029",
     "e8e8ea": "6d6d72",
-    "4d4d67": "0d0d13"
+    "4d4d67": "0d0d13",
+
+    # QED green color
+    "bdc9c2":"414c46",
+    "a4bfaf":"2d3c34",
+    "99b6a5":"24312a",
+    "c8d3cc":"525e57",
+    "89a695":"1f2c25"
 }
 
 COLOR_MAP_RGB = {
