@@ -20,7 +20,20 @@ COLOR_MAP = {
     "a4bfaf":"2d3c34",
     "99b6a5":"24312a",
     "c8d3cc":"525e57",
-    "89a695":"1f2c25"
+    "89a695":"1f2c25",
+
+    # AE2 Unable grid color
+    "c1c3ce":"414454",
+    "c5c6d1":"4c4f5d",
+
+    # enderIO light color grid color
+    "f6f6f6":"939393",
+    "e8e9eb":"54565c",
+    "b8bcca":"353743",
+    "c5c8d6":"3e404a",
+
+    # gregtech processbar color
+    "969aaa":"272a36"
 }
 
 COLOR_MAP_RGB = {
