@@ -1,9 +1,9 @@
-name: Auto Commit Build
+name: Auto Weekly Build UI
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
 
 jobs:
   build-and-release:
@@ -19,7 +19,7 @@ jobs:
         README.md
 
       TARGET_BRANCHES: "main"
-      ZIP_NAME_main: "Modernity-GTNH-UI-{SHA}-pre.zip"
+      ZIP_NAME_main: "Modernity-GTNH-UI-{DATE}.zip"
 
     steps:
       - name: Checkout Code
@@ -27,9 +27,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get short commit hash
-        id: vars
-        run: echo "SHORT_SHA=${GITHUB_SHA::7}" >> $GITHUB_ENV
+      - name: Get build date
+        run: |
+          echo "BUILD_DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Build all branches
         run: |
@@ -37,7 +37,8 @@ jobs:
             git checkout $BRANCH
             VAR_NAME="ZIP_NAME_${BRANCH//-/_}"
             ZIP_TEMPLATE="${!VAR_NAME}"
-            ZIP_NAME="${ZIP_TEMPLATE//\{SHA\}/$SHORT_SHA}"
+
+            ZIP_NAME="${ZIP_TEMPLATE//\{DATE\}/$BUILD_DATE}"
 
             rm -rf zip-root
             mkdir zip-root
@@ -53,15 +54,15 @@ jobs:
         shell: bash
         env:
           INCLUDE_PATHS: ${{ env.INCLUDE_PATHS }}
-          SHORT_SHA: ${{ env.SHORT_SHA }}
+          BUILD_DATE: ${{ env.BUILD_DATE }}
           ZIP_NAME_main: ${{ env.ZIP_NAME_main }}
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          name: Commit ${{ env.SHORT_SHA }}
-          tag_name: commit-${{ env.SHORT_SHA }}
+          name: Weekly Build ${{ env.BUILD_DATE }}
+          tag_name: weekly-${{ env.BUILD_DATE }}
           prerelease: false
           make_latest: true
           files: |
-            Modernity-GTNH-UI-${{ env.SHORT_SHA }}-pre.zip
+            *.zip
