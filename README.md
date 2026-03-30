@@ -21,11 +21,12 @@ Extra supports:
 4. [Industrial Craft 2](https://www.industrial-craft.net/) (Fully Supported!)
 5. [World Edit](https://github.com/GTNewHorizons/worldedit-gtnh)
 6. [Decocraft](https://www.curseforge.com/minecraft/mc-mods/decocraft)
-7. [Box Plus Plus](https://github.com/RealSilverMoon/BoxPlusPlus)
-8. [GT Not Leisure](https://github.com/ABKQPO/GT-Not-Leisure)
-9. [Think Tech](https://github.com/Ol925/ThinkTech)
-10. [Programmable Hatches Mod](https://github.com/reobf/Programmable-Hatches-Mod)
-11. [AE2 Thing](https://github.com/asdflj/AE2Things)
+7. [Extreme Sound Muffler: Legacy](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler-legacy)
+8. [Box Plus Plus](https://github.com/RealSilverMoon/BoxPlusPlus)
+9. [GT Not Leisure](https://github.com/ABKQPO/GT-Not-Leisure)
+10. [Think Tech](https://github.com/Ol925/ThinkTech)
+11. [Programmable Hatches Mod](https://github.com/reobf/Programmable-Hatches-Mod)
+12. [AE2 Thing](https://github.com/asdflj/AE2Things)
 
 Special Supports:
 You will have a new style of better questing book! Enjoy it XD!
