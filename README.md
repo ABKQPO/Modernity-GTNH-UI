@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/ModernityGTNH/Modernity-GTNH/releases/latest">
+    <a href="https://github.com/ModernityGTNH/Modernity-GTNH-UI/releases/latest">
         <img src="pack.png" width="150">
     </a>
 </p>
