@@ -21,7 +21,7 @@ Extra supports:
 4. [Industrial Craft 2](https://www.industrial-craft.net/) (Fully Supported!)
 5. [World Edit](https://github.com/GTNewHorizons/worldedit-gtnh)
 6. [Decocraft](https://www.curseforge.com/minecraft/mc-mods/decocraft)
-7. [Extreme Sound Muffler: Legacy](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler-legacy)
+7. [Extreme Sound Muffler: Legacy](https://github.com/Lyfts/ExtremeSoundMuffler-Legacy)
 8. [Trash Slot](https://github.com/TwelveIterations/TrashSlot)
 9. [Box Plus Plus](https://github.com/RealSilverMoon/BoxPlusPlus)
 10. [GT Not Leisure](https://github.com/ABKQPO/GT-Not-Leisure)
